@@ -621,7 +621,7 @@ progress {
   font-family: 'Changa';
 }
 
-@media (max-width: 600px) {
+@media (max-width: 800px) {
   .tech-image-container img {
       max-width: calc(100% / 2); 
   }
@@ -754,19 +754,25 @@ progress {
   width: 100%;
   display: flex;
   padding: 10px;
-  margin-top: -5%;
+  margin-top: -2%;
 }
 
 .user-column {
-  flex: 1; /* Each column takes equal width */
   margin: 5px;
   padding: 10px;
   text-align: left;
   position: relative; /* Needed for absolute positioning of the pseudo-element */
 }
 
+.user-left {
+  flex: 1.2;
+}
+.user-right {
+  flex: 1;
+}
+
 .user-column img {
-  width: 90%;
+  width: 70%;
 }
 
 .user-column:first-child::after {
