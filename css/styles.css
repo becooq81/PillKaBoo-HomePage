@@ -606,21 +606,21 @@ progress {
 }
 
 .tech-image-container img {
-  flex: 1 1 auto; /* This allows images to grow and shrink as needed */
-  max-width: calc(100% / 3); /* Adjust '3' to the number of images you want in a row */
+  flex: 1 1 auto;
+  max-width: calc(100% / 3);
   height: auto;
-  padding: 5px; /* This adds a little space around each image */
+  padding: 5px;
 }
 
 @media (max-width: 600px) {
   .tech-image-container img {
-      max-width: calc(100% / 2); /* On smaller screens, display only 2 images per row */
+      max-width: calc(100% / 2); 
   }
 }
 
 @media (max-width: 400px) {
   .tech-image-container img {
-      max-width: 100%; /* On very small screens, display one image per row */
+      max-width: 100%; 
   }
 }
 
@@ -634,39 +634,52 @@ progress {
 .main-inner-container {
   display: flex;
   margin-top: 3%;
-  width: 70%; /* Adjust the width of the container (sum of logo and text widths) */
+  width: 70%; 
   align-items: center;
 }
 
 .main-logo img {
-  width: 100%; /* Logo takes full width of its container */
-  height: auto; /* Adjust height as needed */
+  width: 100%;
+  height: auto; 
 }
 
 .main-logo {
-  width: 20%; /* Adjust this value as per your need */
+  width: 20%;
   display: flex;
   margin-right: 5%;
   justify-content: center;
   align-items: center;
-  background-color: white; /* White background */
-  border-radius: 15px; /* Curved corners, adjust as needed */
+  background-color: white; 
+  border-radius: 30px;
   padding: 10px;
 }
 
 .main-text {
   width: 100%;
-  padding-left: 30px; /* Add some space between the logo and the text */
+  padding-left: 30px; 
   font-size: 110%;
   text-align: left;
   padding-top: 5px;
+}
+
+.footer-icon-container {
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+  gap: 30px; 
+  margin-bottom: 2%;
+}
+
+.footer-icon {
+  height: 40px; 
+  border-radius: 50%
 }
 
 .unsdg-image-container {
   margin-top: 5%;
   display: flex;
   justify-content: center;
-  gap: 20px; /* This provides space between the images */
+  gap: 20px;
 }
 
 .unsdg-image-container img {
@@ -676,7 +689,7 @@ progress {
 
 .unsdg-text-container {
   text-align: left;
-  margin-top: 5%; /* This adds space between the images and the text */
+  margin-top: 5%;
 }
 
 .team-image-container {
@@ -687,17 +700,17 @@ progress {
 }
 
 .team-image-caption {
-  width: 150px; /* Adjust as needed */
+  width: 150px; 
   text-align: center;
   margin: 10px;
 }
 
 .team-image-caption img {
   height: auto;
-  width: 150px; /* Fixed width for images */
-  height: 150px; /* Fixed height for images */
-  border-radius: 50%; /* Creates the circular cut */
-  object-fit: cover; /* Ensures the image covers the area */
+  width: 150px; 
+  height: 150px; 
+  border-radius: 50%; 
+  object-fit: cover;
 }
 
 .team-caption {
@@ -708,17 +721,17 @@ progress {
 .email-container {
   display: flex;
   margin-top: 3%;
-  align-items: center; /* Aligns the icon and the text vertically */
+  align-items: center; 
 }
 
 .email-icon {
-  height: 30px; /* Set the size of the icon */
-  margin-right: 10px; /* Space between the icon and the email text */
+  height: 30px; 
+  margin-right: 10px;
 }
 
 .email-link {
-  text-decoration: none; /* Optional: removes the underline from the link */
-  color: --bs-link-hover-color; /* Optional: set the color of the text */
+  text-decoration: none;
+  color: --bs-link-hover-color;
 }
 
 .img-fluid {
