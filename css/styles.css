@@ -694,7 +694,7 @@ progress {
   border-radius: 50%
 }
 
-.rounded-button {
+#rounded-button {
   margin-top: 5%;
   margin-bottom: 10%;
   display: inline-block;
@@ -708,7 +708,7 @@ progress {
   font-weight: bold;
 }
 
-.rounded-button:hover {
+#rounded-button:hover {
   background-color: darkblue; 
   color: #D9D9D9;
 }
@@ -727,8 +727,8 @@ progress {
   position: relative; /* Needed for absolute positioning of the pseudo-element */
 }
 
-.user-container img {
-  width: 80%;
+.user-column img {
+  width: 60%;
 }
 
 .user-column:first-child::after {
