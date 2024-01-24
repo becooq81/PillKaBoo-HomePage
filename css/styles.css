@@ -621,7 +621,7 @@ progress {
   font-family: 'Changa';
 }
 
-@media (max-width: 800px) {
+@media (max-width: 1284px) {
   .tech-image-container img {
       max-width: calc(100% / 2); 
   }
@@ -638,29 +638,6 @@ progress {
   }
   .main-outer-container {
     width: 100%;
-  }
-}
-
-@media (max-width: 400px) {
-  .tech-image-container img {
-      max-width: 100%; 
-  }
-  .main-outer-container {
-    width: 100%;
-  }
-  .main-inner-container {
-      flex-direction: column;
-  }
-  .user-container {
-      flex-direction: column;
-  }
-  .main-logo{
-    width: 100px;
-    margin-bottom: 10px;
-  }
-  .main-text {
-    padding-left: 0;
-    padding-right: 0;
   }
 }
 
