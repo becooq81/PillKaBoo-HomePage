@@ -611,8 +611,7 @@ progress {
 }
 
 .tech-image-container img {
-  flex: 1 1 auto;
-  max-width: calc(100% / 3);
+  max-width: 20%;
   height: auto;
   padding: 5px 15px 5px 5px;
 }
@@ -621,31 +620,55 @@ progress {
   font-family: 'Changa';
 }
 
-@media (max-width: 600px) {
+.try-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+@media (min-width: 701px) {
+  .user-column:first-child::after {
+    content: '';
+    position: absolute;
+    right: 0;
+    top: 10%; /* Start at 12.5% from the top to make the border 75% of the height */
+    bottom: 10%;
+    width: 1px; /* Width of the border */
+    background-color: #ccc; /* Color of the border */
+  }
+
+  .user-container {
+    display: flex;
+    align-items: center;
+    width: 100%
+  }
+
+  #rounded-button {
+    font-size: 200%;
+    padding: 10px 20px;
+  }
+
+  .user-column:first-child {
+    border-top: none;
+  }
+
+
+}
+
+
+
+@media (max-width: 700px) {
   .tech-image-container img {
-      max-width: calc(100% / 2); 
+      max-width: 50%; 
   }
-  .main-inner-container {
-    flex-direction: column;
-  }
-  .main-logo{
-    width: 100px;
-    margin-bottom: 10px;
-  }
-  .main-text {
-    padding-left: 0;
-    padding-right: 0;
+  .user-phone-padding {
+    padding-top: 15px;
   }
   .main-outer-container {
     width: 100%;
   }
-}
-
-@media (max-width: 400px) {
-  .tech-image-container img {
-      max-width: 100%; 
-  }
-  .main-outer-container {
+  .main-description {
     width: 100%;
   }
   .main-inner-container {
@@ -654,6 +677,12 @@ progress {
   .user-container {
       flex-direction: column;
   }
+  .user-column:not(:first-child) {
+    border-top: 1px solid #ccc;
+  }
+  .email-container {
+    font-size: 80%;
+  }
   .main-logo{
     width: 100px;
     margin-bottom: 10px;
@@ -662,27 +691,13 @@ progress {
     padding-left: 0;
     padding-right: 0;
   }
-}
-
-@media only screen 
-  and (device-width: 428px) 
-  and (device-height: 926px) 
-  and (-webkit-device-pixel-ratio: 3) {
-  .tech-image-container img {
-      max-width: calc(100% / 2); 
+  #rounded-button {
+    font-size: 110%;
+    padding: 5px 10px;
   }
-  .main-inner-container {
-    flex-direction: column;
-  }
-  .main-logo {
-    width: 100px;
-    margin-bottom: 10px;
-  }
-  .main-text {
-    padding-left: 0;
-    padding-right: 0;
-  }
-  .main-outer-container {
+  .user-column {
+    margin: 0;
+    padding: 0;
     width: 100%;
   }
 }
@@ -729,7 +744,7 @@ progress {
   justify-content: center;
   align-items: center;
   background-color: white; 
-  border-radius: 30px;
+  border-radius: 20%;
   padding: 10px;
 }
 
@@ -766,6 +781,7 @@ progress {
   border-radius: 30px; 
   font-size: 150%;
   font-weight: bold;
+  margin-right: 5%;
 }
 
 #rounded-button:hover {
@@ -774,7 +790,7 @@ progress {
 }
 
 .user-container {
-  width: 100%;
+  width: 90%;
   display: flex;
   padding: 10px;
   margin-top: -2%;
@@ -788,7 +804,7 @@ progress {
 }
 
 .user-left {
-  flex: 1.2;
+  flex: 1.3;
 }
 .user-right {
   flex: 1;
@@ -798,15 +814,6 @@ progress {
   width: 70%;
 }
 
-.user-column:first-child::after {
-  content: '';
-  position: absolute;
-  right: 0;
-  top: 10%; /* Start at 12.5% from the top to make the border 75% of the height */
-  bottom: 10%;
-  width: 2px; /* Width of the border */
-  background-color: grey; /* Color of the border */
-}
 
 
 
