@@ -1,4 +1,5 @@
 @charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Changa&display=swap');
 /*!
 * Start Bootstrap - Scrolling Nav v5.0.6 (https://startbootstrap.com/template/scrolling-nav)
 * Copyright 2013-2023 Start Bootstrap
@@ -612,15 +613,33 @@ progress {
   padding: 5px;
 }
 
+.signature-font {
+  font-family: 'Changa';
+}
+
 @media (max-width: 600px) {
   .tech-image-container img {
       max-width: calc(100% / 2); 
+  }
+  .main-inner-container {
+    flex-direction: column;
+  }
+  .main-logo{
+    width: 100px;
+    margin-bottom: 10px;
   }
 }
 
 @media (max-width: 400px) {
   .tech-image-container img {
       max-width: 100%; 
+  }
+  .main-inner-container {
+      flex-direction: column;
+  }
+  .main-logo{
+    width: 100px;
+    margin-bottom: 10px;
   }
 }
 
@@ -683,7 +702,7 @@ progress {
 }
 
 .unsdg-image-container img {
-  max-width: 15%;
+  max-width: 20%;
   height: auto;
 }
 
@@ -3810,6 +3829,14 @@ textarea.form-control-lg {
   background-color: var(--bs-nav-tabs-link-active-bg);
   border-color: var(--bs-nav-tabs-link-active-border-color);
 }
+
+#nav-bar-text-custom {
+  color: #666666;
+}
+
+#nav-bar-text-custom:hover {
+  color: #7CAAF7;
+}
 .nav-tabs .dropdown-menu {
   margin-top: calc(-1 * var(--bs-nav-tabs-border-width));
   border-top-left-radius: 0;
@@ -3864,6 +3891,7 @@ textarea.form-control-lg {
 
 .navbar {
   --bs-navbar-padding-x: 0;
+  background-color: #F7F7F7;
   --bs-navbar-padding-y: 0.5rem;
   --bs-navbar-color: rgba(0, 0, 0, 0.55);
   --bs-navbar-hover-color: rgba(0, 0, 0, 0.7);
@@ -8204,6 +8232,11 @@ textarea.form-control-lg {
   --bs-text-opacity: 1;
   color: rgba(var(--bs-light-rgb), var(--bs-text-opacity)) !important;
 }
+.text-darker {
+  --bs-text-opacity: 1;
+  color: rgba(230, 230, 230, var(--bs-text-opacity)) !important; /* Slightly darker than white */
+}
+
 
 .text-dark {
   --bs-text-opacity: 1;
