@@ -628,6 +628,9 @@ progress {
     width: 100px;
     margin-bottom: 10px;
   }
+  .user-container {
+    flex-direction: column;
+}
 }
 
 @media (max-width: 400px) {
@@ -635,6 +638,9 @@ progress {
       max-width: 100%; 
   }
   .main-inner-container {
+      flex-direction: column;
+  }
+  .user-container {
       flex-direction: column;
   }
   .main-logo{
