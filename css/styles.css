@@ -608,9 +608,9 @@ progress {
 
 .tech-image-container img {
   flex: 1 1 auto;
-  max-width: calc(100% / 3);
+  max-width: calc(100% / 4);
   height: auto;
-  padding: 5px;
+  padding: 5px 15px 5px 5px;
 }
 
 .signature-font {
@@ -8129,6 +8129,7 @@ textarea.form-control-lg {
 
 .fw-bolder {
   font-weight: bolder !important;
+  font-size: 300%;
 }
 
 .lh-1 {
