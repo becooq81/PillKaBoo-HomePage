@@ -794,6 +794,7 @@ progress {
   display: flex;
   padding: 10px;
   margin-top: -2%;
+  align-items: flex-start;
 }
 
 .user-column {
