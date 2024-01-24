@@ -597,18 +597,44 @@ progress {
   content: "— ";
 }
 
-.image-container {
+.tech-image-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.tech-image-container img {
+  flex: 1 1 auto; /* This allows images to grow and shrink as needed */
+  max-width: calc(100% / 3); /* Adjust '3' to the number of images you want in a row */
+  height: auto;
+  padding: 5px; /* This adds a little space around each image */
+}
+
+@media (max-width: 600px) {
+  .tech-image-container img {
+      max-width: calc(100% / 2); /* On smaller screens, display only 2 images per row */
+  }
+}
+
+@media (max-width: 400px) {
+  .tech-image-container img {
+      max-width: 100%; /* On very small screens, display one image per row */
+  }
+}
+
+.unsdg-image-container {
   display: flex;
   justify-content: center;
   gap: 20px; /* This provides space between the images */
 }
 
-.image-container img {
+.unsdg-image-container img {
   max-width: 100%;
   height: auto;
 }
 
-.text-container {
+.unsdg-text-container {
   text-align: center;
   margin-top: 20px; /* This adds space between the images and the text */
 }
