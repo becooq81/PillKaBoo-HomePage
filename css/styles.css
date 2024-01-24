@@ -1,5 +1,6 @@
 @charset "UTF-8";
 @import url('https://fonts.googleapis.com/css2?family=Changa&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 /*!
 * Start Bootstrap - Scrolling Nav v5.0.6 (https://startbootstrap.com/template/scrolling-nav)
 * Copyright 2013-2023 Start Bootstrap
@@ -11,6 +12,9 @@
  * Copyright 2011-2022 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
+body {
+  font-family: 'Open Sans', sans-serif;
+}
 :root {
   --bs-blue: #4285F4;
   --bs-indigo: #6610f2;
@@ -628,14 +632,21 @@ progress {
     width: 100px;
     margin-bottom: 10px;
   }
-  .user-container {
-    flex-direction: column;
-}
+  .main-text {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .main-outer-container {
+    width: 100%;
+  }
 }
 
 @media (max-width: 400px) {
   .tech-image-container img {
       max-width: 100%; 
+  }
+  .main-outer-container {
+    width: 100%;
   }
   .main-inner-container {
       flex-direction: column;
@@ -647,13 +658,33 @@ progress {
     width: 100px;
     margin-bottom: 10px;
   }
+  .main-text {
+    padding-left: 0;
+    padding-right: 0;
+  }
 }
 
 .main-outer-container {
   display: flex;
   justify-content: center;
   align-items: center;
+  flex-direction: column;
   width: 100%;
+}
+
+.main-middle-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.main-description {
+  width: 60%;
+  margin-top: 5%;
+  text-align: left;
+  display: flex;
+  justify-content: center; /* Horizontally center the content */
+  align-items: center; 
 }
 
 .main-inner-container {
@@ -669,7 +700,7 @@ progress {
 }
 
 .main-logo {
-  width: 20%;
+  width: 30%;
   display: flex;
   margin-right: 5%;
   justify-content: center;
@@ -720,6 +751,7 @@ progress {
 }
 
 .user-container {
+  width: 100%;
   display: flex;
   padding: 10px;
   margin-top: -5%;
@@ -734,7 +766,7 @@ progress {
 }
 
 .user-column img {
-  width: 80%;
+  width: 90%;
 }
 
 .user-column:first-child::after {
