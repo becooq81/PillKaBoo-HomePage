@@ -694,6 +694,55 @@ progress {
   border-radius: 50%
 }
 
+.rounded-button {
+  margin-top: 5%;
+  margin-bottom: 10%;
+  display: inline-block;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  color: white;
+  background-color: #4285F4;
+  border-radius: 30px; 
+  font-size: 150%;
+  font-weight: bold;
+}
+
+.rounded-button:hover {
+  background-color: darkblue; 
+  color: #D9D9D9;
+}
+
+.user-container {
+  display: flex;
+  padding: 10px;
+  margin-top: -5%;
+}
+
+.user-column {
+  flex: 1; /* Each column takes equal width */
+  margin: 5px;
+  padding: 10px;
+  text-align: left;
+  position: relative; /* Needed for absolute positioning of the pseudo-element */
+}
+
+.user-container img {
+  width: 80%;
+}
+
+.user-column:first-child::after {
+  content: '';
+  position: absolute;
+  right: 0;
+  top: 10%; /* Start at 12.5% from the top to make the border 75% of the height */
+  bottom: 10%;
+  width: 2px; /* Width of the border */
+  background-color: grey; /* Color of the border */
+}
+
+
+
 .unsdg-image-container {
   margin-top: 5%;
   display: flex;
