@@ -11,7 +11,7 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
 :root {
-  --bs-blue: #0d6efd;
+  --bs-blue: #4285F4;
   --bs-indigo: #6610f2;
   --bs-purple: #6f42c1;
   --bs-pink: #d63384;
@@ -595,6 +595,22 @@ progress {
 }
 .blockquote-footer::before {
   content: "— ";
+}
+
+.image-container {
+  display: flex;
+  justify-content: center;
+  gap: 20px; /* This provides space between the images */
+}
+
+.image-container img {
+  max-width: 100%;
+  height: auto;
+}
+
+.text-container {
+  text-align: center;
+  margin-top: 20px; /* This adds space between the images and the text */
 }
 
 .img-fluid {
