@@ -32,7 +32,7 @@ By empowering individuals with Parkinson's with improved communication tools, th
 
 # Team
 - Heejin Kang
-- Jaeun Lee
+- Jaeeun Lee
 - Jihoon Kim
 - Yeong Hyeon Yu
 
