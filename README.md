@@ -1,6 +1,10 @@
 # Parkour-Landing-Page
 We are excited to present Parkour, an innovative keyboard application meticulously designed for individuals living with Parkinson's disease. Parkour represents a breakthrough in digital communication, tailored to empower those affected by the motor challenges associated with Parkinson's.
 
+# Help us improve!
+[Start the survey](https://forms.gle/6mmfGsZX8xDCrSGG9)
+[Schedule a user testing session](https://forms.gle/UfX2vmiJG7oypfvD8)
+
 # Why Parkour?
 Parkinson's disease can significantly impact fine motor skills, making traditional typing experiences frustrating and inefficient. Parkour addresses this by offering a compassionate and intelligent interface that adapts to the unique needs of each user.
 
