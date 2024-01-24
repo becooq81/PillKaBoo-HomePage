@@ -608,7 +608,7 @@ progress {
 
 .tech-image-container img {
   flex: 1 1 auto;
-  max-width: calc(100% / 4);
+  max-width: calc(100% / 3);
   height: auto;
   padding: 5px 15px 5px 5px;
 }
