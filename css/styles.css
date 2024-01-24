@@ -34,7 +34,7 @@
   --bs-gray-700: #495057;
   --bs-gray-800: #343a40;
   --bs-gray-900: #212529;
-  --bs-primary: #0d6efd;
+  --bs-primary: #4285F4;
   --bs-secondary: #6c757d;
   --bs-success: #198754;
   --bs-info: #0dcaf0;
@@ -42,7 +42,7 @@
   --bs-danger: #dc3545;
   --bs-light: #f8f9fa;
   --bs-dark: #212529;
-  --bs-primary-rgb: 13, 110, 253;
+  --bs-primary-rgb: 66, 133, 244;
   --bs-secondary-rgb: 108, 117, 125;
   --bs-success-rgb: 25, 135, 84;
   --bs-info-rgb: 13, 202, 240;
@@ -73,7 +73,7 @@
   --bs-border-radius-xl: 1rem;
   --bs-border-radius-2xl: 2rem;
   --bs-border-radius-pill: 50rem;
-  --bs-link-color: #0d6efd;
+  --bs-link-color: #4285F4;
   --bs-link-hover-color: #0a58ca;
   --bs-code-color: #d63384;
   --bs-highlight-bg: #fff3cd;
@@ -602,6 +602,7 @@ progress {
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
+  margin-top: 5%;
 }
 
 .tech-image-container img {
@@ -623,20 +624,101 @@ progress {
   }
 }
 
+.main-outer-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.main-inner-container {
+  display: flex;
+  margin-top: 3%;
+  width: 70%; /* Adjust the width of the container (sum of logo and text widths) */
+  align-items: center;
+}
+
+.main-logo img {
+  width: 100%; /* Logo takes full width of its container */
+  height: auto; /* Adjust height as needed */
+}
+
+.main-logo {
+  width: 20%; /* Adjust this value as per your need */
+  display: flex;
+  margin-right: 5%;
+  justify-content: center;
+  align-items: center;
+  background-color: white; /* White background */
+  border-radius: 15px; /* Curved corners, adjust as needed */
+  padding: 10px;
+}
+
+.main-text {
+  width: 100%;
+  padding-left: 30px; /* Add some space between the logo and the text */
+  font-size: 110%;
+  text-align: left;
+  padding-top: 5px;
+}
+
 .unsdg-image-container {
+  margin-top: 5%;
   display: flex;
   justify-content: center;
   gap: 20px; /* This provides space between the images */
 }
 
 .unsdg-image-container img {
-  max-width: 100%;
+  max-width: 15%;
   height: auto;
 }
 
 .unsdg-text-container {
+  text-align: left;
+  margin-top: 5%; /* This adds space between the images and the text */
+}
+
+.team-image-container {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  margin-top: 5%;
+}
+
+.team-image-caption {
+  width: 150px; /* Adjust as needed */
   text-align: center;
-  margin-top: 20px; /* This adds space between the images and the text */
+  margin: 10px;
+}
+
+.team-image-caption img {
+  height: auto;
+  width: 150px; /* Fixed width for images */
+  height: 150px; /* Fixed height for images */
+  border-radius: 50%; /* Creates the circular cut */
+  object-fit: cover; /* Ensures the image covers the area */
+}
+
+.team-caption {
+  margin-top: 15%;
+  font-size: 110%;
+}
+
+.email-container {
+  display: flex;
+  margin-top: 3%;
+  align-items: center; /* Aligns the icon and the text vertically */
+}
+
+.email-icon {
+  height: 30px; /* Set the size of the icon */
+  margin-right: 10px; /* Space between the icon and the email text */
+}
+
+.email-link {
+  text-decoration: none; /* Optional: removes the underline from the link */
+  color: --bs-link-hover-color; /* Optional: set the color of the text */
 }
 
 .img-fluid {
