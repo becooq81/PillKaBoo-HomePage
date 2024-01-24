@@ -632,10 +632,10 @@ progress {
     content: '';
     position: absolute;
     right: 0;
-    top: 10%; /* Start at 12.5% from the top to make the border 75% of the height */
-    bottom: 10%;
-    width: 1px; /* Width of the border */
-    background-color: #ccc; /* Color of the border */
+    top: 2%; 
+    bottom: 14%;
+    width: 1px; 
+    background-color: #ccc; 
   }
 
   .user-container {
@@ -721,7 +721,7 @@ progress {
   margin-top: 5%;
   text-align: left;
   display: flex;
-  justify-content: center; /* Horizontally center the content */
+  justify-content: center;
   align-items: center; 
 }
 
@@ -801,7 +801,7 @@ progress {
   margin: 5px;
   padding: 10px;
   text-align: left;
-  position: relative; /* Needed for absolute positioning of the pseudo-element */
+  position: relative;
 }
 
 .user-left {
@@ -4031,7 +4031,7 @@ textarea.form-control-lg {
   --bs-navbar-toggler-padding-x: 0.75rem;
   --bs-navbar-toggler-font-size: 1.25rem;
   --bs-navbar-toggler-icon-bg: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%280, 0, 0, 0.55%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
-  --bs-navbar-toggler-border-color: rgba(0, 0, 0, 0.1);
+  --bs-navbar-toggler-border-color: rgba(0, 0, 0, 0.55);
   --bs-navbar-toggler-border-radius: 0.375rem;
   --bs-navbar-toggler-focus-width: 0.25rem;
   --bs-navbar-toggler-transition: box-shadow 0.15s ease-in-out;
