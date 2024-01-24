@@ -665,9 +665,6 @@ progress {
   .user-phone-padding {
     padding-top: 15px;
   }
-  .main-outer-container {
-    width: 100%;
-  }
   .main-description {
     width: 100%;
   }
@@ -707,7 +704,7 @@ progress {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  width: 100%;
+  padding: 0;
 }
 
 .main-middle-container {
@@ -3048,7 +3045,7 @@ textarea.form-control-lg {
 .btn {
   --bs-btn-padding-x: 0.75rem;
   --bs-btn-padding-y: 0.375rem;
-  --bs-btn-font-family: ;
+  --bs-btn-font-family: 'Open Sans', sans-serif;
   --bs-btn-font-size: 1rem;
   --bs-btn-font-weight: 400;
   --bs-btn-line-height: 1.5;
