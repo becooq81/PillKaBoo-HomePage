@@ -621,7 +621,7 @@ progress {
   font-family: 'Changa';
 }
 
-@media (max-width: 1284px) {
+@media (max-width: 600px) {
   .tech-image-container img {
       max-width: calc(100% / 2); 
   }
@@ -629,6 +629,52 @@ progress {
     flex-direction: column;
   }
   .main-logo{
+    width: 100px;
+    margin-bottom: 10px;
+  }
+  .main-text {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .main-outer-container {
+    width: 100%;
+  }
+}
+
+@media (max-width: 400px) {
+  .tech-image-container img {
+      max-width: 100%; 
+  }
+  .main-outer-container {
+    width: 100%;
+  }
+  .main-inner-container {
+      flex-direction: column;
+  }
+  .user-container {
+      flex-direction: column;
+  }
+  .main-logo{
+    width: 100px;
+    margin-bottom: 10px;
+  }
+  .main-text {
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+
+@media only screen 
+  and (device-width: 428px) 
+  and (device-height: 926px) 
+  and (-webkit-device-pixel-ratio: 3) {
+  .tech-image-container img {
+      max-width: calc(100% / 2); 
+  }
+  .main-inner-container {
+    flex-direction: column;
+  }
+  .main-logo {
     width: 100px;
     margin-bottom: 10px;
   }
