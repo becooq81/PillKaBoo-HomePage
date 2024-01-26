@@ -1048,6 +1048,7 @@ progress {
 
 .email-link:hover {
   text-decoration: underline;
+  color: white;
 }
 
 .img-fluid {
