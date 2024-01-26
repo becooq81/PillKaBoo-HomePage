@@ -39,38 +39,46 @@ Parkinson's can significantly impact fine motor skills, making traditional typin
   <tr>
     <td align="center">
       <div style="display: flex; align-items: center;">
-        <img src="https://github.com/becooq81.png" width="100px" alt="Profile Picture">
-        <div style="margin-left: 10px;">
-          <strong>Heejin Kang</strong><br>
-          Server, Mobile
-        </div>
+        <a target="_blank" href="https://github.com/becooq81">
+          <img src="https://github.com/becooq81.png" width="100px" alt="Profile Picture">
+          <div style="margin-left: 10px;">
+            <strong>Heejin Kang</strong><br>
+            Server, Mobile
+          </div>
+        </a>
       </div>
     </td>
     <td align="center">
       <div style="display: flex; align-items: center;">
-        <img src="https://github.com/babywhale03.png" width="100px" alt="Profile Picture">
-        <div style="margin-left: 10px;">
-          <strong>Jaeeun Lee</strong><br>
-          Mobile
-        </div>
+        <a target="_blank" href="https://github.com/babywhale03">
+          <img src="https://github.com/babywhale03.png" width="100px" alt="Profile Picture">
+          <div style="margin-left: 10px;">
+            <strong>Jaeeun Lee</strong><br>
+            Mobile
+          </div>
+        </a>
       </div>
     </td>
     <td align="center">
       <div style="display: flex; align-items: center;">
-        <img src="https://github.com/aeromaki.png" width="100px" alt="Profile Picture">
-        <div style="margin-left: 10px;">
-          <strong>Jihoon Kim</strong><br>
-          ML
-        </div>
+        <a target="_blank" href="https://github.com/aeromaki">
+          <img src="https://github.com/aeromaki.png" width="100px" alt="Profile Picture">
+          <div style="margin-left: 10px;">
+            <strong>Jihoon Kim</strong><br>
+            ML
+          </div>
+        </a>
       </div>
     </td>
     <td align="center">
       <div style="display: flex; align-items: center;">
-        <img src="https://github.com/julie-yon.png" width="100px" alt="Profile Picture">
-        <div style="margin-left: 10px;">
-          <strong>Yeong Hyeon Yu</strong><br>
-          Design
-        </div>
+        <a target="_blank" href="https://github.com/julie-yon">
+          <img src="https://github.com/julie-yon.png" width="100px" alt="Profile Picture">
+          <div style="margin-left: 10px;">
+            <strong>Yeong Hyeon Yu</strong><br>
+            Design
+          </div>
+        </a>
       </div>
     </td>
   </tr>
