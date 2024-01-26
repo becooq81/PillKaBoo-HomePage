@@ -1,11 +1,11 @@
 # <img src="https://github.com/becooq81/Parkour-Homepage/blob/main/assets/logo/parkour-wo-text.png" alt="Parkour Logo" style="width: auto; height: 1em;">Parkour
 We are excited to present Parkour, an innovative keyboard application meticulously designed for individuals with Parkinson's. Parkour represents a breakthrough in digital communication, tailored to empower those affected by the motor challenges associated with Parkinson's. Check out the latest features by downloading the demo.
 
-Refer to the following for our code.
+Refer to the following for our code.  <br><br>
 **Homepage:** https://github.com/becooq81/Parkour-Homepage <br>
 **ML:** https://github.com/aeromaki/parkour <br>
 - - -
-# <img src="https://github.com/becooq81/Parkour-Homepage/blob/main/assets/icons/gdsc.png" alt="GDSC Logo" style="width: auto; height: 1em;"> GDSC Google Solution Challenge 2024
+## <img src="https://github.com/becooq81/Parkour-Homepage/blob/main/assets/icons/gdsc.png" alt="GDSC Logo" style="width: auto; height: 1em;"> GDSC Google Solution Challenge 2024
 The Google Solution Challenge is designed to encourage participants to develop solutions that address one or more of the United Nations Sustainable Development Goals (SDGs). These 17 goals are a universal call to action to end poverty, protect the planet, and ensure that all people enjoy peace and prosperity by 2030. They cover a broad range of social and economic development issues.
 <br><br>
 As part of the GDSC Google Solution Challenge, Parkour tackles the following UN SDGs.
@@ -24,17 +24,17 @@ Furthermore, Parkour contributes to the goals of SDG 10, which focuses on reduce
 By empowering individuals with Parkinson's with improved communication tools, the app fosters greater social participation and helps mitigate the inequalities they face, aligning seamlessly with the goal's objective of enhancing inclusion and reducing disparities.
 
 - - -
-# Why Parkour?
+## 🧐 Why Parkour?
 Parkinson's can significantly impact fine motor skills, making traditional typing experiences frustrating and inefficient. Parkour addresses this by offering a compassionate and intelligent interface that adapts to the unique needs of each user.
 
-## Key Features
+## 🔑 Key Features
 - Adaptive Autocorrection: Utilizes advanced algorithms to anticipate and correct typing errors common in individuals with Parkinson's, enhancing communication accuracy.
 - Intuitive Text Prediction: Employs AI-driven predictive text, reducing the need for extensive typing and minimizing physical strain.
 - Familiar yet Enhanced Interface: Combines a user-friendly layout familiar to most users with enhanced features tailored for individuals with Parkinson's, ensuring ease of use and efficiency.
 - - -
-# Application Architecture
+## 🏛️ Application Architecture
 - - -
-# Team
+## 👏 Team
 <table>
   <tr>
     <td align="center">
@@ -76,5 +76,5 @@ Parkinson's can significantly impact fine motor skills, making traditional typin
   </tr>
 </table>
 - - -
-# Contact us
+# 📩 Contact us
 gdsc.yonsei.parkour@gmail.com
