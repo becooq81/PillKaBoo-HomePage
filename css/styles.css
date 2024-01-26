@@ -681,7 +681,7 @@ progress {
     font-size: 80%;
   }
   .main-logo{
-    width: 100px;
+    width: 200px;
     margin-bottom: 10px;
   }
   .main-text {
@@ -714,7 +714,6 @@ progress {
 }
 
 .main-description {
-  width: 60%;
   margin-top: 5%;
   text-align: left;
   display: flex;
@@ -735,13 +734,12 @@ progress {
 }
 
 .main-logo {
-  width: 30%;
+  flex: 0.6;
+  width: 50%;
   display: flex;
-  margin-right: 5%;
+  margin-right: 2%;
   justify-content: center;
   align-items: center;
-  background-color: white; 
-  border-radius: 20%;
   padding: 10px;
 }
 
@@ -750,6 +748,7 @@ progress {
   padding-left: 30px; 
   font-size: 110%;
   text-align: left;
+  flex: 1;
   padding-top: 5px;
 }
 
@@ -766,6 +765,21 @@ progress {
   border-radius: 50%
 }
 
+#roles {
+  margin-top: 5%;
+  margin-bottom: 10%;
+  display: inline-block;
+  padding: 5px 10px;
+  text-align: center;
+  text-decoration: none;
+  color: #000000;
+  background-color: #E0EAF9;
+  border-radius: 10px; 
+  font-size: 75%;
+}
+
+
+
 #rounded-button {
   margin-top: 5%;
   margin-bottom: 10%;
@@ -779,6 +793,21 @@ progress {
   font-size: 150%;
   font-weight: bold;
   margin-right: 5%;
+}
+
+#download-button {
+  margin-top: 5%;
+  display: inline-block;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  color: #3B4152;
+  background-color: white;
+  border-radius: 20px; 
+  font-size: 90%;
+  font-weight: bold;
+  margin-right: 5%;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
 }
 
 #rounded-button:hover {
@@ -812,9 +841,6 @@ progress {
   width: 70%;
 }
 
-
-
-
 .unsdg-image-container {
   margin-top: 5%;
   display: flex;
@@ -823,7 +849,7 @@ progress {
 }
 
 .unsdg-image-container img {
-  max-width: 20%;
+  max-width: 60%;
   height: auto;
 }
 
@@ -856,6 +882,17 @@ progress {
 .team-caption {
   margin-top: 15%;
   font-size: 110%;
+}
+
+.contacts {
+  display: flex;
+}
+
+.github-container {
+  display: flex;
+  margin-top: 3%;
+  align-items: center;
+  margin-left: 5%;
 }
 
 .email-container {
@@ -8419,7 +8456,7 @@ textarea.form-control-lg {
 
 .bg-primary {
   --bs-bg-opacity: 1;
-  background-color: rgba(var(--bs-primary-rgb), var(--bs-bg-opacity)) !important;
+  background-color: rgba(var(--bs-primary-rgb), 1) !important;
 }
 
 .bg-secondary {
