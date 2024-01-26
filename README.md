@@ -28,9 +28,9 @@ By empowering individuals with Parkinson's with improved communication tools, th
 Parkinson's can significantly impact fine motor skills, making traditional typing experiences frustrating and inefficient. Parkour addresses this by offering a compassionate and intelligent interface that adapts to the unique needs of each user.
 
 ## 🔑 Key Features
-- Adaptive Autocorrection: Utilizes advanced algorithms to anticipate and correct typing errors common in individuals with Parkinson's, enhancing communication accuracy.
-- Intuitive Text Prediction: Employs AI-driven predictive text, reducing the need for extensive typing and minimizing physical strain.
-- Familiar yet Enhanced Interface: Combines a user-friendly layout familiar to most users with enhanced features tailored for individuals with Parkinson's, ensuring ease of use and efficiency.
+- **Adaptive Autocorrection:** Utilizes advanced algorithms to anticipate and correct typing errors common in individuals with Parkinson's, enhancing communication accuracy.
+- **Intuitive Text Prediction:** Employs AI-driven predictive text, reducing the need for extensive typing and minimizing physical strain.
+- **Familiar yet Enhanced Interface:** Combines a user-friendly layout familiar to most users with enhanced features tailored for individuals with Parkinson's, ensuring ease of use and efficiency.
 - - -
 ## 🏛️ Application Architecture
 - - -
