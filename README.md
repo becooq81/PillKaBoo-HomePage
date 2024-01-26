@@ -51,7 +51,7 @@ Parkinson's can significantly impact fine motor skills, making traditional typin
     <td align="center">
       <div style="display: flex; align-items: center;">
         <a target="_blank" href="https://github.com/babywhale03">
-          <img src="https://github.com/babywhale03.png" width="100px" alt="Profile Picture">
+          <img src="https://github.com/becooq81/Parkour-Homepage/blob/main/assets/pfp/JaeeunLee-pfp.jpeg" width="100px" alt="Profile Picture">
           <div style="margin-left: 10px;">
             <strong>Jaeeun Lee</strong><br>
             Mobile
@@ -73,7 +73,7 @@ Parkinson's can significantly impact fine motor skills, making traditional typin
     <td align="center">
       <div style="display: flex; align-items: center;">
         <a target="_blank" href="https://github.com/julie-yon">
-          <img src="https://github.com/julie-yon.png" width="100px" alt="Profile Picture">
+          <img src="https://github.com/becooq81/Parkour-Homepage/blob/main/assets/pfp/YuYeongHyeon-pfp.jpeg" width="100px" alt="Profile Picture">
           <div style="margin-left: 10px;">
             <strong>Yeong Hyeon Yu</strong><br>
             Design
