@@ -1,10 +1,8 @@
-# Parkour-Landing-Page
-We are excited to present Parkour, an innovative keyboard application meticulously designed for individuals with Parkinson's. Parkour represents a breakthrough in digital communication, tailored to empower those affected by the motor challenges associated with Parkinson's.
-
-# Help us improve!
-- [Start the survey](https://forms.gle/6mmfGsZX8xDCrSGG9)
-- [Schedule a user testing session](https://forms.gle/UfX2vmiJG7oypfvD8)
-
+# Parkour
+We are excited to present Parkour, an innovative keyboard application meticulously designed for individuals with Parkinson's. Parkour represents a breakthrough in digital communication, tailored to empower those affected by the motor challenges associated with Parkinson's. Check out the latest features by downloading the demo.
+- - -
+# Google Solution Challenge
+- - -
 # Why Parkour?
 Parkinson's can significantly impact fine motor skills, making traditional typing experiences frustrating and inefficient. Parkour addresses this by offering a compassionate and intelligent interface that adapts to the unique needs of each user.
 
@@ -31,10 +29,47 @@ By empowering individuals with Parkinson's with improved communication tools, th
 - Google Cloud
 
 # Team
-- Heejin Kang
-- Jaeeun Lee
-- Jihoon Kim
-- Yeong Hyeon Yu
+<table>
+  <tr>
+    <td align="center">
+      <div style="display: flex; align-items: center;">
+        <img src="https://github.com/becooq81.png" width="100px" alt="Profile Picture">
+        <div style="margin-left: 10px;">
+          <strong>Heejin Kang</strong><br>
+          Server, Mobile
+        </div>
+      </div>
+    </td>
+    <td align="center">
+      <div style="display: flex; align-items: center;">
+        <img src="https://github.com/babywhale03.png" width="100px" alt="Profile Picture">
+        <div style="margin-left: 10px;">
+          <strong>Jaeeun Lee</strong><br>
+          Mobile
+        </div>
+      </div>
+    </td>
+    <td align="center">
+      <div style="display: flex; align-items: center;">
+        <img src="https://github.com/aeromaki.png" width="100px" alt="Profile Picture">
+        <div style="margin-left: 10px;">
+          <strong>Jihoon Kim</strong><br>
+          ML
+        </div>
+      </div>
+    </td>
+    <td align="center">
+      <div style="display: flex; align-items: center;">
+        <img src="https://github.com/julie-yon.png" width="100px" alt="Profile Picture">
+        <div style="margin-left: 10px;">
+          <strong>Yeong Hyeon Yu</strong><br>
+          Design
+        </div>
+      </div>
+    </td>
+  </tr>
+</table>
+
 
 # Contact us
 gdsc.yonsei.parkour@gmail.com
