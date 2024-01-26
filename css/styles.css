@@ -653,7 +653,6 @@ progress {
     border-top: none;
   }
 
-
 }
 
 
@@ -670,6 +669,9 @@ progress {
   }
   .main-inner-container {
       flex-direction: column;
+  }
+  .contacts {
+    flex-direction: column;
   }
   .user-container {
       flex-direction: column;
@@ -886,6 +888,7 @@ progress {
 
 .contacts {
   display: flex;
+  margin-bottom: 7%;
 }
 
 .github-container {
@@ -904,11 +907,25 @@ progress {
 .email-icon {
   height: 30px; 
   margin-right: 10px;
+  color: white;
+}
+
+.email-link-dark {
+  text-decoration: none;
+  color: black;
+}
+
+.email-link-dark:hover {
+  text-decoration: underline;
 }
 
 .email-link {
   text-decoration: none;
-  color: --bs-link-hover-color;
+  color: white;
+}
+
+.email-link:hover {
+  text-decoration: underline;
 }
 
 .img-fluid {
