@@ -75,6 +75,8 @@ Parkinson's can significantly impact fine motor skills, making traditional typin
     </td>
   </tr>
 </table>
+
 - - -
+
 # 📩 Contact us
 gdsc.yonsei.parkour@gmail.com
