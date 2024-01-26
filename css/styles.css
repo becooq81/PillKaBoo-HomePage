@@ -673,6 +673,9 @@ progress {
   .tech-image-container img {
       max-width: 50%; 
   }
+  .services {
+    flex-direction: column;
+  }
   .merged {
     display: none;
   }
@@ -692,8 +695,8 @@ progress {
   .keyboard-outer-container {
     flex-direction: column;
   }
-  .keyboard-container h3 {
-    margin-bottom: -20%;
+  .keyboard-gif {
+    display: none;
   }
   .user-phone-padding {
     padding-top: 15px;
@@ -760,7 +763,7 @@ progress {
 .main-inner-container {
   display: flex;
   margin-top: 3%;
-  width: 70%; 
+  width: 80%; 
   align-items: center;
 }
 
@@ -945,6 +948,7 @@ progress {
   background-color: #E0EAF9;
   border-radius: 10px;
   padding: 3% 2%;
+  min-height: 50%;
 }
 
 .keyboard-container h3 {
@@ -959,11 +963,9 @@ progress {
   width: 100%;
   background-color: white;
 }
-
 .keyboard-gif {
-  flex: 0.7;
+  width: 22%;
 }
-
 
 .unsdg-image-container {
   margin-top: 5%;
@@ -11305,6 +11307,6 @@ header {
 }
 
 section {
-  padding-top: 9rem;
-  padding-bottom: 9rem;
+  padding-top: 5rem;
+  padding-bottom: 5rem;
 }
