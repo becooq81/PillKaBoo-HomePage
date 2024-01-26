@@ -673,6 +673,9 @@ progress {
   .tech-image-container img {
       max-width: 50%; 
   }
+  .keyboard-header {
+    font-weight: bold;
+  }
   .services {
     flex-direction: column;
   }
