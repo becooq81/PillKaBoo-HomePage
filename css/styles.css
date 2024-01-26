@@ -938,12 +938,10 @@ progress {
   display: flex;
   gap: 25px;
   padding: 3% 0;
-  margin-left: 5%;
-  margin-right: 5%;
 }
 
 .keyboard-container {
-  flex: 1;
+  flex: 0.6;
   background-color: #E0EAF9;
   border-radius: 10px;
   padding: 3% 2%;
@@ -951,9 +949,12 @@ progress {
 
 .keyboard-container h3 {
   color: #4285F4;
-  padding-bottom: 30%;
+  font-size: 140%;
 }
 
+.keyboard-header {
+  min-height: 30%;
+}
 .keyboard-gif img {
   width: 100%;
   background-color: white;
