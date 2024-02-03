@@ -77,10 +77,11 @@ Introducing a practical service tailored specifically <b>for blind or visually i
       <div style="display: flex; align-items: center;">
         <a target="_blank" href="https://github.com/julie-yon">
           <img src="https://github.com/becooq81/Parkour-Homepage/blob/main/assets/pfp/YuYeongHyeon-pfp.jpeg" width="100px" alt="Profile Picture">
-                  </a>
           <div style="margin-left: 10px;">
             <strong>Yeong Hyeon Yu</strong><br>
           </div>
+                  </a>
+
       </div>
     </td>
   </tr>
