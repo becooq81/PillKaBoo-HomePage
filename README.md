@@ -1,10 +1,10 @@
-# <img src="https://github.com/becooq81/Parkour-Homepage/blob/main/assets/logo/parkour-wo-text.png" alt="Parkour Logo" style="width: auto; height: 1em;">Parkour
-We are excited to present Parkour, an innovative keyboard application meticulously designed for individuals with Parkinson's. Parkour represents a breakthrough in digital communication, tailored to empower those affected by the motor challenges associated with Parkinson's. Check out the latest features by downloading the demo.
+# <img src="https://github.com/becooq81/Parkour-Homepage/blob/main/assets/logo/logo-title.png" alt="FindMyPill Logo" style="width: auto; height: 3em;">
+We are thrilled to present MedMate, an app thoughtfully crafted for visually impaired individuals. <b>FindMyPill</b> stands as a pioneer in healthcare accessibility, specifically engineered to empower those facing visual challenges. By assisting users in identifying their medication, providing detailed medical information, managing prescriptions, and sending reminders for medication intake, <b>FindMyPill</b> redefines independence in health management. Explore its groundbreaking features by downloading the demo.
 
 Refer to the following for our code.  <br><br>
-**Homepage:** https://github.com/becooq81/Parkour-Homepage <br>
-**ML:** https://github.com/aeromaki/parkour <br>
-**Keyboard:** https://github.com/becooq81/Parkour-Keyboard
+**Homepage:** https://github.com/becooq81/Pill-Homepage <br>
+**Mobile:** https://github.com/becooq81/Pill <br>
+**ML:**  <br>
 - - -
 ## <img src="https://github.com/becooq81/Parkour-Homepage/blob/main/assets/icons/gdsc.png" alt="GDSC Logo" style="width: auto; height: 1em;"> GDSC Google Solution Challenge 2024
 The Google Solution Challenge is designed to encourage participants to develop solutions that address one or more of the United Nations Sustainable Development Goals (SDGs). These 17 goals are a universal call to action to end poverty, protect the planet, and ensure that all people enjoy peace and prosperity by 2030. They cover a broad range of social and economic development issues.
@@ -16,22 +16,23 @@ As part of the GDSC Google Solution Challenge, Parkour tackles the following UN 
   <img src="https://github.com/becooq81/Parkour-Homepage/blob/main/assets/unsdg/sdg10.png" alt="UN SDG #10" style="width: auto; height: 10em;">
 </div>
 
+Our service directly contributes to improving the quality of life for visually impaired individuals, thereby aligning with the broader objectives of the UNSDGs to leave no one behind and to ensure inclusivity and equality. It bridges significant gaps in healthcare accessibility and information dissemination, fostering a more inclusive society where people with disabilities have better access to healthcare services and support.
+
 ${\textsf{\color{green}Contribution to Healthcare: }}$  
-Parkour is designed to assist Parkinson's patients by improving their ability to communicate and engage with digital platforms. This approach aligns with SDG 3, which emphasizes good health and well-being, by offering a solution that caters to the specific health needs of these patients.
+FindMyPill is designed to contribute to improving health outcomes by ensuring that individuals take the correct medication at the right time, thereby reducing the risk of medication errors, enhancing treatment adherence, and potentially lowering hospital readmission rates. It particularly supports the elderly, visually impaired, and those with chronic conditions in managing their health more effectively.
 
 ${\textsf{\color{magenta}Enhancing Digital Accessibility: }}$  
-Furthermore, Parkour contributes to the goals of SDG 10, which focuses on reduced inequalities. By making digital communication tools more accessible to individuals with Parkinson's, the app aims to bridge the digital divide and support inclusivity.
-
-By empowering individuals with Parkinson's with improved communication tools, the app fosters greater social participation and helps mitigate the inequalities they face, aligning seamlessly with the goal's objective of enhancing inclusion and reducing disparities.
+By providing a tool that aids those with visual impairments or other disabilities in managing their medication independently, the app works to reduce inequalities. It ensures that health and well-being support is accessible to all, regardless of their physical capabilities, thus fostering inclusivity.
 
 - - -
-## 🧐 Why Parkour?
-Parkinson's can significantly impact fine motor skills, making traditional typing experiences frustrating and inefficient. Parkour addresses this by offering a compassionate and intelligent interface that adapts to the unique needs of each user.
+## 🧐 Key Featuers
+Introducing a practical service tailored specifically <b>for blind or visually impaired users, aimed at simplifying the task of identifying medications<b>. Our straightforward tool is designed to assist users in recognizing various pills, providing essential information such as the pill's name, dosage, and purpose. With accessibility at its core, our service ensures that anyone, regardless of visual ability, can manage their medications safely and independently.
+
 
 ## 🔑 Key Features
-- **Adaptive Autocorrection:** Utilizes advanced algorithms to anticipate and correct typing errors common in individuals with Parkinson's, enhancing communication accuracy.
-- **Intuitive Text Prediction:** Employs AI-driven predictive text, reducing the need for extensive typing and minimizing physical strain.
-- **Familiar yet Enhanced Interface:** Combines a user-friendly layout familiar to most users with enhanced features tailored for individuals with Parkinson's, ensuring ease of use and efficiency.
+- **Visual Identification:** Assists visually impaired users by identifying medication(s) through visual input, and provides essential details.
+- **Navigation Assistance:** In the case of multiple medications identified in visual input, provides auditory guidance to locate the desired medication
+- **Prescription Management:** Scans prescriptions to set up medication reminders as push notifications, ensuring timely medication intake
 - - -
 ## 🏛️ Application Architecture
 - - -
@@ -44,7 +45,7 @@ Parkinson's can significantly impact fine motor skills, making traditional typin
           <img src="https://github.com/becooq81.png" width="100px" alt="Profile Picture">
           <div style="margin-left: 10px;">
             <strong>Heejin Kang</strong><br>
-            Server, Mobile
+            Mobile
           </div>
         </a>
       </div>
@@ -55,7 +56,6 @@ Parkinson's can significantly impact fine motor skills, making traditional typin
           <img src="https://github.com/becooq81/Parkour-Homepage/blob/main/assets/pfp/JaeeunLee-pfp.jpeg" width="100px" alt="Profile Picture">
           <div style="margin-left: 10px;">
             <strong>Jaeeun Lee</strong><br>
-            Mobile
           </div>
         </a>
       </div>
@@ -77,7 +77,6 @@ Parkinson's can significantly impact fine motor skills, making traditional typin
           <img src="https://github.com/becooq81/Parkour-Homepage/blob/main/assets/pfp/YuYeongHyeon-pfp.jpeg" width="100px" alt="Profile Picture">
           <div style="margin-left: 10px;">
             <strong>Yeong Hyeon Yu</strong><br>
-            Design
           </div>
         </a>
       </div>
