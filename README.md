@@ -26,7 +26,7 @@ By providing a tool that aids those with visual impairments or other disabilitie
 
 - - -
 ## 🧐 Key Featuers
-Introducing a practical service tailored specifically <b>for blind or visually impaired users, aimed at simplifying the task of identifying medications<b>. Our straightforward tool is designed to assist users in recognizing various pills, providing essential information such as the pill's name, dosage, and purpose. With accessibility at its core, our service ensures that anyone, regardless of visual ability, can manage their medications safely and independently.
+Introducing a practical service tailored specifically <b>for blind or visually impaired users, aimed at simplifying the task of identifying medications</b>. Our straightforward tool is designed to assist users in recognizing various pills, providing essential information such as the pill's name, dosage, and purpose. With accessibility at its core, our service ensures that anyone, regardless of visual ability, can manage their medications safely and independently.
 
 
 ## 🔑 Key Features
