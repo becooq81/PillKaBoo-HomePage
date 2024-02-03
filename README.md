@@ -43,31 +43,29 @@ Introducing a practical service tailored specifically <b>for blind or visually i
       <div style="display: flex; align-items: center;">
         <a target="_blank" href="https://github.com/becooq81">
           <img src="https://github.com/becooq81.png" width="100px" alt="Profile Picture">
-                  </a>
-
-          <div style="margin-left: 10px;">
-            <strong>Heejin Kang</strong><br>
+        </a>
+        <div style="margin-left: 10px;">
+          <strong>Heejin Kang</strong><br>
             Mobile
-          </div>
+        </div>
       </div>
     </td>
     <td align="center">
       <div style="display: flex; align-items: center;">
         <a target="_blank" href="https://github.com/babywhale03">
           <img src="https://github.com/becooq81/Parkour-Homepage/blob/main/assets/pfp/JaeeunLee-pfp.jpeg" width="100px" alt="Profile Picture">
-                  </a>
-
-          <div style="margin-left: 10px;">
-            <strong>Jaeeun Lee</strong><br>
-          </div>
+        </a>
+        <div style="margin-left: 10px;">
+          <strong>Jaeeun Lee</strong><br>
+        </div>
       </div>
     </td>
     <td align="center">
       <div style="display: flex; align-items: center;">
         <a target="_blank" href="https://github.com/aeromaki">
           <img src="https://github.com/aeromaki.png" width="100px" alt="Profile Picture">
+        </a>
           <div style="margin-left: 10px;">
-                    </a>
             <strong>Jihoon Kim</strong><br>
             ML
           </div>
@@ -76,12 +74,10 @@ Introducing a practical service tailored specifically <b>for blind or visually i
     <td align="center">
       <div style="display: flex; align-items: center;">
         <a target="_blank" href="https://github.com/julie-yon">
-          <img src="https://github.com/becooq81/Parkour-Homepage/blob/main/assets/pfp/YuYeongHyeon-pfp.jpeg" width="100px" alt="Profile Picture">
+          <img src="https://github.com/becooq81/Parkour-Homepage/blob/main/assets/pfp/YuYeongHyeon-pfp.jpeg" width="100px" alt="Profile Picture"></a>
           <div style="margin-left: 10px;">
             <strong>Yeong Hyeon Yu</strong><br>
           </div>
-                  </a>
-
       </div>
     </td>
   </tr>
