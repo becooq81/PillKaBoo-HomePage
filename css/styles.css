@@ -946,6 +946,7 @@ progress {
   padding: 3% 0;
 }
 
+
 .keyboard-container {
   flex: 0.6;
   background-color: #F7F1B8;
@@ -8597,16 +8598,24 @@ textarea.form-control-lg {
   --bs-text-opacity: 0.75;
 }
 
-.pill-main {
-  width: 100%;
+#pill-main {
+  animation-name: example;
+  animation-duration: 3s; /* Adjust as needed */
+  animation-iteration-count: 1; /* Plays only once */
+  animation-fill-mode: forwards; /* Keeps the last frame */
   height: auto;
-  display: block;
-  text-align: center;
+  background-position: center;
+  background-size: cover;
+  width: 85vw;
+  height: 90vh;
+  background-repeat: no-repeat;
 }
 
-.pill-main-image {
-  width: 80%;
-  height: auto;
+@keyframes example {
+  0%   {background-image: url("../assets/components/main-1.png");}
+  25%  {background-image: url("../assets/components/main-2.png");}
+  50%  {background-image: url("../assets/components/main-3.png");}
+  100% {background-image: url("../assets/components/main-4.png");}
 }
 
 .text-opacity-100 {
