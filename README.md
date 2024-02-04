@@ -1,4 +1,4 @@
-# <img src="https://github.com/becooq81/Parkour-Homepage/blob/main/assets/logo/logo-title.png" alt="FindMyPill Logo" style="width: auto; height: 3em;">
+# <img src="https://github.com/becooq81/Pill-HomePage/blob/main/assets/logo/logo-title.png" alt="FindMyPill Logo" style="width: auto; height: 3em;">
 We are thrilled to present MedMate, an app thoughtfully crafted for visually impaired individuals. <b>FindMyPill</b> stands as a pioneer in healthcare accessibility, specifically engineered to empower those facing visual challenges. By assisting users in identifying their medication, providing detailed medical information, managing prescriptions, and sending reminders for medication intake, <b>FindMyPill</b> redefines independence in health management. Explore its groundbreaking features by downloading the demo.
 
 Refer to the following for our code.  <br><br>
@@ -6,14 +6,14 @@ Refer to the following for our code.  <br><br>
 **Mobile:** https://github.com/becooq81/Pill <br>
 **ML:**  <br>
 - - -
-## <img src="https://github.com/becooq81/Parkour-Homepage/blob/main/assets/icons/gdsc.png" alt="GDSC Logo" style="width: auto; height: 1em;"> GDSC Google Solution Challenge 2024
+## <img src="https://github.com/becooq81/Pill-HomePage/blob/main/assets/icons/gdsc.png" alt="GDSC Logo" style="width: auto; height: 1em;"> GDSC Google Solution Challenge 2024
 The Google Solution Challenge is designed to encourage participants to develop solutions that address one or more of the United Nations Sustainable Development Goals (SDGs). These 17 goals are a universal call to action to end poverty, protect the planet, and ensure that all people enjoy peace and prosperity by 2030. They cover a broad range of social and economic development issues.
 <br><br>
-As part of the GDSC Google Solution Challenge, Parkour tackles the following UN SDGs.
+As part of the GDSC Google Solution Challenge, FindMyPill(Team Parkour) tackles the following UN SDGs.
 <br>
 <div align="center" >
-  <img src="https://github.com/becooq81/Parkour-Homepage/blob/main/assets/unsdg/sdg3.png" alt="UN SDG #3" style="width: auto; height: 10em;">
-  <img src="https://github.com/becooq81/Parkour-Homepage/blob/main/assets/unsdg/sdg10.png" alt="UN SDG #10" style="width: auto; height: 10em;">
+  <img src="https://github.com/becooq81/Pill-HomePage/blob/main/assets/unsdg/sdg3.png" alt="UN SDG #3" style="width: auto; height: 10em;">
+  <img src="https://github.com/becooq81/Pill-HomePage/blob/main/assets/unsdg/sdg10.png" alt="UN SDG #10" style="width: auto; height: 10em;">
 </div>
 
 Our service directly contributes to improving the quality of life for visually impaired individuals, thereby aligning with the broader objectives of the UNSDGs to leave no one behind and to ensure inclusivity and equality. It bridges significant gaps in healthcare accessibility and information dissemination, fostering a more inclusive society where people with disabilities have better access to healthcare services and support.
@@ -36,7 +36,7 @@ Introducing a practical service tailored specifically <b>for blind or visually i
 - - -
 ## 🏛️ Application Architecture
 - - -
-## 👏 Team
+## 👏 Team Parkour
 <table>
   <tr>
     <td align="center">
@@ -53,7 +53,7 @@ Introducing a practical service tailored specifically <b>for blind or visually i
     <td align="center">
       <div style="display: flex; align-items: center;">
         <a target="_blank" href="https://github.com/babywhale03">
-          <img src="https://github.com/becooq81/Parkour-Homepage/blob/main/assets/pfp/JaeeunLee-pfp.jpeg" width="100px" alt="Profile Picture">
+          <img src="https://github.com/becooq81/Pill-HomePage/blob/main/assets/pfp/JaeeunLee-pfp.jpeg" width="100px" alt="Profile Picture">
         </a>
         <div style="margin-left: 10px;">
           <strong>Jaeeun Lee</strong><br>
@@ -74,7 +74,7 @@ Introducing a practical service tailored specifically <b>for blind or visually i
     <td align="center">
       <div style="display: flex; align-items: center;">
         <a target="_blank" href="https://github.com/julie-yon">
-          <img src="https://github.com/becooq81/Parkour-Homepage/blob/main/assets/pfp/YuYeongHyeon-pfp.jpeg" width="100px" alt="Profile Picture"></a>
+          <img src="https://github.com/becooq81/Pill-HomePage/blob/main/assets/pfp/YuYeongHyeon-pfp.jpeg" width="100px" alt="Profile Picture"></a>
           <div style="margin-left: 10px;">
             <strong>Yeong Hyeon Yu</strong><br>
           </div>
