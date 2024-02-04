@@ -8600,22 +8600,22 @@ textarea.form-control-lg {
 
 #pill-main {
   animation-name: example;
-  animation-duration: 3s; /* Adjust as needed */
+  animation-duration: 1.5s; /* Adjust as needed */
   animation-iteration-count: 1; /* Plays only once */
   animation-fill-mode: forwards; /* Keeps the last frame */
   height: auto;
   background-position: center;
   background-size: cover;
   width: 85vw;
-  height: 90vh;
+  height: 95vh;
   background-repeat: no-repeat;
 }
 
 @keyframes example {
-  0%   {background-image: url("../assets/components/main-1.png");}
-  25%  {background-image: url("../assets/components/main-2.png");}
-  50%  {background-image: url("../assets/components/main-3.png");}
-  100% {background-image: url("../assets/components/main-4.png");}
+  0%, 24.99999%   {background-image: url("../assets/components/main-1.png");}
+  25%, 49.99999%  {background-image: url("../assets/components/main-2.png");}
+  50%, 74.99999%  {background-image: url("../assets/components/main-3.png");}
+  75%, 100% {background-image: url("../assets/components/main-4.png");}
 }
 
 .text-opacity-100 {
