@@ -1,5 +1,5 @@
 # <img src="https://github.com/becooq81/Pill-HomePage/blob/main/assets/logo/logo-title.png" alt="FindMyPill Logo" style="width: auto; height: 3em;">
-We are thrilled to present MedMate, an app thoughtfully crafted for visually impaired individuals. <b>FindMyPill</b> stands as a pioneer in healthcare accessibility, specifically engineered to empower those facing visual challenges. By assisting users in identifying their medication, providing detailed medical information, managing prescriptions, and sending reminders for medication intake, <b>FindMyPill</b> redefines independence in health management. Explore its groundbreaking features by downloading the demo.
+We are thrilled to present MedMate, an app thoughtfully crafted for visually impaired individuals. <b>FindMyPill</b> is specifically engineered to empower those facing visual challenges to assist users in identifying their medication, providing detailed medical information, managing prescriptions, and sending reminders for medication intake, <b>FindMyPill</b> redefines independence in health management. Explore its groundbreaking features by downloading the demo.
 
 Refer to the following for our code.  <br><br>
 **Homepage:** https://github.com/becooq81/Pill-Homepage <br>
