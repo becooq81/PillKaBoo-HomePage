@@ -5,6 +5,7 @@ Refer to the following for our code.  <br><br>
 **Homepage:** https://github.com/becooq81/Pill-Homepage <br>
 **Mobile:** https://github.com/becooq81/Pill <br>
 **ML:**  <br>
+**Serverless API**: https://github.com/becooq81/Pill-Server <br>
 - - -
 ## <img src="https://github.com/becooq81/Pill-HomePage/blob/main/assets/icons/gdsc.png" alt="GDSC Logo" style="width: auto; height: 1em;"> GDSC Google Solution Challenge 2024
 The Google Solution Challenge is designed to encourage participants to develop solutions that address one or more of the United Nations Sustainable Development Goals (SDGs). These 17 goals are a universal call to action to end poverty, protect the planet, and ensure that all people enjoy peace and prosperity by 2030. They cover a broad range of social and economic development issues.
