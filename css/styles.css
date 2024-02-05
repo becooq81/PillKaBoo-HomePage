@@ -684,14 +684,11 @@ progress {
 
 }
 
-
-
 @media (max-width: 700px) {
   .tech-image-container img {
       max-width: 50%; 
   }
   #pill-main {
-    background-image: none;
   }
   #pill-img {
     display: block;
