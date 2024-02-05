@@ -665,6 +665,23 @@ progress {
     font-size: 150%;
   }
 
+  #pill-main {
+    animation-name: example;
+    animation-duration: 1.5s; /* Adjust as needed */
+    animation-iteration-count: 1; /* Plays only once */
+    animation-fill-mode: forwards; /* Keeps the last frame */
+    height: auto;
+    background-position: center;
+    background-size: cover;
+    width: 85vw;
+    height: 95vh;
+    background-repeat: no-repeat;
+  }
+
+  #pill-img {
+    display: none;
+  }
+
 }
 
 
@@ -672,6 +689,14 @@ progress {
 @media (max-width: 700px) {
   .tech-image-container img {
       max-width: 50%; 
+  }
+  #pill-main {
+    background-image: none;
+  }
+  #pill-img {
+    display: block;
+    width: 100%;
+    height: auto;
   }
   .keyboard-header {
     font-weight: bold;
@@ -8598,24 +8623,11 @@ textarea.form-control-lg {
   --bs-text-opacity: 0.75;
 }
 
-#pill-main {
-  animation-name: example;
-  animation-duration: 1.5s; /* Adjust as needed */
-  animation-iteration-count: 1; /* Plays only once */
-  animation-fill-mode: forwards; /* Keeps the last frame */
-  height: auto;
-  background-position: center;
-  background-size: cover;
-  width: 85vw;
-  height: 95vh;
-  background-repeat: no-repeat;
-}
-
 @keyframes example {
-  0%, 24.99999%   {background-image: url("../assets/components/main-1.png");}
-  25%, 49.99999%  {background-image: url("../assets/components/main-2.png");}
-  50%, 74.99999%  {background-image: url("../assets/components/main-3.png");}
-  75%, 100% {background-image: url("../assets/components/main-4.png");}
+  0%  {background-image: url("../assets/components/main-1.png");}
+  25% {background-image: url("../assets/components/main-2.png");}
+  50% {background-image: url("../assets/components/main-3.png");}
+  100% {background-image: url("../assets/components/main-4.png");}
 }
 
 .text-opacity-100 {
