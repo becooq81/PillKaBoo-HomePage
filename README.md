@@ -58,6 +58,7 @@ Introducing a practical service tailored specifically <b>for blind or visually i
         </a>
         <div style="margin-left: 10px;">
           <strong>Jaeeun Lee</strong><br>
+          ML
         </div>
       </div>
     </td>
@@ -78,6 +79,7 @@ Introducing a practical service tailored specifically <b>for blind or visually i
           <img src="https://github.com/becooq81/Pill-HomePage/blob/main/assets/pfp/YuYeongHyeon-pfp.jpeg" width="100px" alt="Profile Picture"></a>
           <div style="margin-left: 10px;">
             <strong>Yeong Hyeon Yu</strong><br>
+            Design
           </div>
       </div>
     </td>
