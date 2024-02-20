@@ -14,7 +14,7 @@ Refer to the following for our code: <br>
 + **:house: Homepage:** https://github.com/becooq81/PillKaBoo-Homepage <br>
 + **:iphone: Mobile:** https://github.com/becooq81/PillKaBoo <br>
 + **🤖 ML:**  <br>
-+ **:globe_with_meridians: Serverless API**: https://github.com/becooq81/PillKaBoo-Server <br><br>
++ **:globe_with_meridians: Serverless API**: https://github.com/becooq81/PillKaBoo-Backend <br><br>
 *****
 
 <h3> Table of Contents </h3>
