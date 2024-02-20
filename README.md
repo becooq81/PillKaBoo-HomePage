@@ -1,5 +1,5 @@
 # <img src="https://github.com/becooq81/Pill-HomePage/blob/main/assets/logo/logo-title.png" alt="FindMyPill Logo" style="width: auto; height: 3em;">
-We are thrilled to present MedMate, an app thoughtfully crafted for visually impaired individuals. <b>FindMyPill</b> is specifically engineered to empower those facing visual challenges and to assist users in identifying their medication, providing detailed medical information, managing prescriptions, and sending reminders for medication intake, <b>FindMyPill</b> redefines independence in health management. Explore its groundbreaking features by downloading the demo.
+We are thrilled to present PillKaBoo, an app thoughtfully crafted for visually impaired individuals. <b>FindMyPill</b> is specifically engineered to empower those facing visual challenges and to assist users in identifying their medication, providing detailed medical information, managing prescriptions, and sending reminders for medication intake, <b>FindMyPill</b> redefines independence in health management. Explore its groundbreaking features by downloading the demo.
 
 Refer to the following for our code.  <br><br>
 **Homepage:** https://github.com/becooq81/Pill-Homepage <br>
@@ -48,17 +48,6 @@ Introducing a practical service tailored specifically <b>for blind or visually i
         <div style="margin-left: 10px;">
           <strong>Heejin Kang</strong><br>
             Mobile
-        </div>
-      </div>
-    </td>
-    <td align="center">
-      <div style="display: flex; align-items: center;">
-        <a target="_blank" href="https://github.com/babywhale03">
-          <img src="https://github.com/becooq81/Pill-HomePage/blob/main/assets/pfp/JaeeunLee-pfp.jpeg" width="100px" alt="Profile Picture">
-        </a>
-        <div style="margin-left: 10px;">
-          <strong>Jaeeun Lee</strong><br>
-          ML
         </div>
       </div>
     </td>
