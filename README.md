@@ -29,11 +29,19 @@ Refer to the following for our code: <br>
 
 
 ## 🔍 Problem Statement 
-> Most Common Medication Challenges for the Blind & Visually Impaired(VI)<br> 1. Identifying Medication <br> 2. Understanding Medication Information <br> 3. Using Liquid Medication
+
+<h3 align="center"> Giving medication is not only physically dangerous for their child, but also emotionally traumatic for them.</h3>
+
+> Most Common Medication Challenges for the Blind & Visually Impaired(VI)<br>
+> ```
+> 1. Identifying Medication
+> 2. Understanding Medication Information
+> 3. Using Liquid Medication
+> ```
 
 During the unterview with VI parents, we learned that bilnd/VI parents struggle with giving medication to their children, especially with <b>identifying and understanding the medication</b> and <b>adjusting the right dosage of liquid medication.</b> They also expressed the desire to <b>independently manage their child’s medication</b> without relying on assistance. They have <b>anxiety</b> when giving medications to their child because of the risk of giving the wrong/expired  medication and exceeding the required liquid dosage. 
 
-### Giving medication is not only physically dangerous for their child, but also emotionally traumatic for them.
+
 
 
 ## 🎯 UN SDGs & Targets
