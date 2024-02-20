@@ -123,7 +123,7 @@ Introducing a practical service tailored specifically <b>for blind or visually i
         </a>
         <div style="margin-left: 10px;">
           <strong>Kang Heejin</strong><br>
-            Mobile
+            Mobile BE
         </div>
       </div>
     </td>
