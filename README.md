@@ -81,7 +81,7 @@ Our service directly contributes to <b>improving the quality of life for visuall
 
 ## ✨ Key Functions
 
-
+고쳐야함.....
 
 Introducing a practical service tailored specifically <b>for blind or visually impaired users, aimed at simplifying the task of identifying medications</b>. Our straightforward tool is designed to assist users in recognizing various pills, providing essential information such as the pill's name, dosage, and purpose. With accessibility at its core, our service ensures that anyone, regardless of visual ability, can manage their medications safely and independently.
 
@@ -154,4 +154,4 @@ Introducing a practical service tailored specifically <b>for blind or visually i
 ---
 
 ## 📩 Contact us
-gdsc.yonsei.parkour@gmail.com
+Email: gdsc.yonsei.parkour@gmail.com
