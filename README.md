@@ -1,31 +1,68 @@
-# <img src="https://github.com/becooq81/Pill-HomePage/blob/main/assets/logo/logo-title.png" alt="FindMyPill Logo" style="width: auto; height: 3em;">
-We are thrilled to present PillKaBoo, an app thoughtfully crafted for visually impaired individuals. <b>FindMyPill</b> is specifically engineered to empower those facing visual challenges and to assist users in identifying their medication, providing detailed medical information, managing prescriptions, and sending reminders for medication intake, <b>FindMyPill</b> redefines independence in health management. Explore its groundbreaking features by downloading the demo.
+<img src="https://github.com/becooq81/PillKaBoo-HomePage/blob/main/assets/%EC%8D%B8%EB%84%A4%EC%9D%BC.png" alt="PillKaBoo Logo" width="850" height="478.125">
 
-Refer to the following for our code.  <br><br>
-**Homepage:** https://github.com/becooq81/Pill-Homepage <br>
-**Mobile:** https://github.com/becooq81/Pill <br>
-**ML:**  <br>
-**Serverless API**: https://github.com/becooq81/Pill-Server <br>
-- - -
-## <img src="https://github.com/becooq81/Pill-HomePage/blob/main/assets/icons/gdsc.png" alt="GDSC Logo" style="width: auto; height: 1em;"> GDSC Google Solution Challenge 2024
-The Google Solution Challenge is designed to encourage participants to develop solutions that address one or more of the United Nations Sustainable Development Goals (SDGs). These 17 goals are a universal call to action to end poverty, protect the planet, and ensure that all people enjoy peace and prosperity by 2030. They cover a broad range of social and economic development issues.
+![header](https://capsule-render.vercel.app/api?type=waving&color=F2E99D&height=250&section=header&text=Pill%20Ka%20Boo&fontAlign=20&fontAlignY=35&fontSize=50&fontColor=000000&animation=scaleIn&desc=:%20safe%20and%20independent%20medication%20for%20blind%20and%20VI%20parents&descAlign=37&descAlignY=50)
+
+We are thrilled to present PillKaBoo, an app thoughtfully crafted for blind and visually impaired(VI) parents. 
+
+<b>PillKaBoo</b> is specifically aiming to assist blind/VI parents in safely and independently administering medication to their children.<br>
+Explore our groundbreaking features by downloading the demo on Google Play Store and App Store <br><br> 
+
+*****
+Refer to the following for our code: <br>
+
++ **:house: Homepage:** https://github.com/becooq81/Pill-Homepage <br>
++ **:iphone: Mobile:** https://github.com/becooq81/Pill <br>
++ **🤖 ML:**  <br>
++ **:globe_with_meridians: Serverless API**: https://github.com/becooq81/Pill-Server <br><br>
+*****
+
+<h3> Table of Contents </h3>
+
++ [Problem Statement]<> <br>
++ [UN SDGs & Targets]<> <br>
++ [Demo Video]<> <br>
++ [Key Functions]<> <br>
++ [Technology]<> <br>
++ [Getting Started]<> <br>
++ [Team Parkour]<> <br>
+
+
+## 🔍 Problem Statement 
+
+
+## 🎯  UN SDGs & Targets
+### <img src="https://github.com/becooq81/Pill-HomePage/blob/main/assets/icons/gdsc.png" alt="GDSC Logo" style="width: auto; height: 1em;"> GDSC Google Solution Challenge 2024
+The Google Solution Challenge is designed to encourage participants to develop solutions that address one or more of the United Nations Sustainable Development Goals (SDGs). These 17 goals cover a broad range of social and economic development issues.
 <br><br>
-As part of the GDSC Google Solution Challenge, FindMyPill(Team Parkour) tackles the following UN SDGs.
-<br>
+### <img src="https://github.com/becooq81/PillKaBoo-HomePage/blob/main/assets/unsdg/Sustainable_Development_Goals_logo.png" alt="GDSC Logo" style="width: auto; height: 1em;"> UN SDGs
+As part of the GDSC Google Solution Challenge, PillKaBoo(Team Parkour) tackles the following UN SDGs.
+<br><br>
 <div align="center" >
-  <img src="https://github.com/becooq81/Pill-HomePage/blob/main/assets/unsdg/sdg3.png" alt="UN SDG #3" style="width: auto; height: 10em;">
-  <img src="https://github.com/becooq81/Pill-HomePage/blob/main/assets/unsdg/sdg10.png" alt="UN SDG #10" style="width: auto; height: 10em;">
+  <img src="https://github.com/becooq81/PillKaBoo-HomePage/blob/main/assets/unsdg/sdgs.png" alt="UN SDGs" style="width: auto; height: auto;">
 </div>
+<br><br>
+Our service directly contributes to improving the quality of life for visually impaired individuals, thereby aligning with the broader objectives of the UNSDGs to leave no one behind and to ensure inclusivity and equality. We not only tackle the challenges of medication management for the VI but also contribute to greater goals of health coverage, quality education, and reduced inequalities, fostering a more inclusive society for all. 
 
-Our service directly contributes to improving the quality of life for visually impaired individuals, thereby aligning with the broader objectives of the UNSDGs to leave no one behind and to ensure inclusivity and equality. It bridges significant gaps in healthcare accessibility and information dissemination, fostering a more inclusive society where people with disabilities have better access to healthcare services and support.
+#### ${\textsf{\color{green}[Target 3.8] Contribution to Accessibility of Healthcare: }}$ 
+> PillKaBoo improves accessibility to information about medication and liquid medication intake so that blind/VI parents can reduce the risks of taking the wrong or expired medication and exceeding the required dosage. PillKaBoo contributes to the good health and well-being of VI parents and their children.
 
-${\textsf{\color{green}Contribution to Healthcare: }}$  
-FindMyPill is designed to contribute to improving health outcomes by ensuring that individuals take the correct medication at the right time, thereby reducing the risk of medication errors, enhancing treatment adherence, and potentially lowering hospital readmission rates. It particularly supports the elderly, visually impaired, and those with chronic conditions in managing their health more effectively.
+#### ${\textsf{\color{red}[Target 4.5] Educated Medication Information: }}$ 
+> PillKaBoo provides information in audio guidance through screen readers (`Google Talk Back`) helping blind/VI parents make educated choices for their children’s medication. 
 
-${\textsf{\color{magenta}Enhancing Digital Accessibility: }}$  
-By providing a tool that aids those with visual impairments or other disabilities in managing their medication independently, the app works to reduce inequalities. It ensures that health and well-being support is accessible to all, regardless of their physical capabilities, thus fostering inclusivity.
+#### ${\textsf{\color{magenta}[Target 10.2] Enhancing Independency of Parenthood: }}$  
+> PillKaBoo reduces inequalities of inconveniences regard to medication due to visual impairments and empowers blind/VI parents with the independence to care for their children by themselves, regardless of their visual abilities. 
 
-- - -
+
+## 📼 Demo Video
+
+> Video Link: 링크를 넣을 겁니다!
+
+
+## 
+
+
+
+
 ## 🧐 Key Featuers
 Introducing a practical service tailored specifically <b>for blind or visually impaired users, aimed at simplifying the task of identifying medications</b>. Our straightforward tool is designed to assist users in recognizing various pills, providing essential information such as the pill's name, dosage, and purpose. With accessibility at its core, our service ensures that anyone, regardless of visual ability, can manage their medications safely and independently.
 
@@ -34,9 +71,23 @@ Introducing a practical service tailored specifically <b>for blind or visually i
 - **Visual Identification:** Assists visually impaired users by identifying medication(s) through visual input, and provides essential details.
 - **Navigation Assistance:** In the case of multiple medications identified in visual input, provides auditory guidance to locate the desired medication
 - **Prescription Management:** Scans prescriptions to set up medication reminders as push notifications, ensuring timely medication intake
-- - -
-## 🏛️ Application Architecture
-- - -
+
+## ⚙️ Technology
+
+### 👨🏻‍💻 Technology Stack
+
+`Flutter` | `Android` | `Go` | `TensorFlow Lite` | `Google Cloud Function` | `SQLite`
+
+### 🏛️ Application Architecture
+<img src="https://github.com/becooq81/PillKaBoo-HomePage/blob/main/assets/tech/Arcitecture.png" alt="Architecture" width="800" height="320">
+
+## ⚡ Getting Started
+Download <b>PillKaBoo</b> in 
+
+`Google Play Store` for android 
+
+`App Store` for iOS
+
 ## 👏 Team Parkour
 <table>
   <tr>
@@ -75,7 +126,7 @@ Introducing a practical service tailored specifically <b>for blind or visually i
   </tr>
 </table>
 
-- - -
 
-# 📩 Contact us
+
+## 📩 Contact us
 gdsc.yonsei.parkour@gmail.com
