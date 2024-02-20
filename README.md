@@ -20,13 +20,14 @@ Refer to the following for our code: <br>
 <h3> Table of Contents </h3>
 
 + [Problem Statement](#-problem-statement) <br>
-+ [UN SDGs & Targets](#-un-sdgs-&-targets) <br>
++ [UN SDGs & Targets](#-un-sdgs--targets) <br>
 + [Demo Video](#-demo-video) <br>
 + [Key Functions](#-key-functions)<br>
-+ [Technology](#-technology) <br>
++ [Technology](#%EF%B8%8F-technology) <br>
 + [Getting Started](#-getting-started) <br>
-+ [Team Parkour](#-team-parkour) <br>
++ [Team Parkour](#%EF%B8%8F-team-parkour) <br>
 
+---
 
 ## 🔍 Problem Statement 
 
@@ -39,10 +40,10 @@ Refer to the following for our code: <br>
 > 3. Using Liquid Medication
 > ```
 
-During the unterview with VI parents, we learned that bilnd/VI parents struggle with giving medication to their children, especially with <b>identifying and understanding the medication</b> and <b>adjusting the right dosage of liquid medication.</b> They also expressed the desire to <b>independently manage their child’s medication</b> without relying on assistance. They have <b>anxiety</b> when giving medications to their child because of the risk of giving the wrong/expired  medication and exceeding the required liquid dosage. 
+During the interview with VI parents, we learned that bilnd/VI parents struggle with giving medication to their children, especially with <b>identifying and understanding the medication</b> and <b>adjusting the right dosage of liquid medication.</b> They also expressed the desire to <b>independently manage their child’s medication</b> without relying on assistance. They have <b>anxiety</b> when giving medications to their child because of the risk of giving the wrong/expired  medication and exceeding the required liquid dosage. 
 
 
-
+---
 
 ## 🎯 UN SDGs & Targets
 ### <img src="https://github.com/becooq81/Pill-HomePage/blob/main/assets/icons/gdsc.png" alt="GDSC Logo" style="width: auto; height: 1em;"> GDSC Google Solution Challenge 2024
@@ -56,21 +57,27 @@ As part of the GDSC Google Solution Challenge, <b>PillKaBoo(Team Parkour)</b> ta
 </div>
 <br><br>
 Our service directly contributes to <b>improving the quality of life for visually impaired individuals</b>, thereby aligning with the broader objectives of the UNSDGs to leave no one behind and to ensure inclusivity and equality. We not only tackle <b>the challenges of medication management for the VI</b> but also contribute to greater goals of <b>health coverage, quality education, and reduced inequalities, fostering a more inclusive society for all.</b> 
+<br><br>
 
 #### ${\textsf{\color{green}[Target 3.8] Contribution to Accessibility of Healthcare: }}$ 
 > PillKaBoo improves accessibility to information about medication and liquid medication intake so that blind/VI parents can <b>reduce the risks of taking the wrong or expired medication and exceeding the required dosage.</b> PillKaBoo contributes to the good health and well-being of VI parents and their children.
+<br>
 
 #### ${\textsf{\color{red}[Target 4.5] Educated Medication Information: }}$ 
 > PillKaBoo provides information in audio guidance through screen readers (`Google Talk Back`) helping blind/VI parents <b>make educated choices for their children’s medication.</b>
+<br>
 
 #### ${\textsf{\color{magenta}[Target 10.2] Enhancing Independency of Parenting: }}$  
 > PillKaBoo reduces inequalities of inconveniences regard to medication due to visual impairments and empowers blind/VI parents with the <b>independence to care for their children by themselves</b>, regardless of their visual abilities. 
+<br>
 
+---
 
 ## 📼 Demo Video
 
 > Video Link: 링크를 넣을 겁니다!
 
+---
 
 ## ✨ Key Functions
 
@@ -84,6 +91,8 @@ Introducing a practical service tailored specifically <b>for blind or visually i
 - **Navigation Assistance:** In the case of multiple medications identified in visual input, provides auditory guidance to locate the desired medication
 - **Prescription Management:** Scans prescriptions to set up medication reminders as push notifications, ensuring timely medication intake
 
+---
+
 ## ⚙️ Technology
 
 ### 👨🏻‍💻 Technology Stack
@@ -93,12 +102,16 @@ Introducing a practical service tailored specifically <b>for blind or visually i
 ### 🏛️ Application Architecture
 <img src="https://github.com/becooq81/PillKaBoo-HomePage/blob/main/assets/tech/Arcitecture.png" alt="Architecture" width="800" height="320">
 
+---
+
 ## ⚡ Getting Started
 ### Download <b>PillKaBoo</b> 
 
 - For android in `Google Play Store` 
 
 - For iOS in `App Store`
+
+---
 
 ## 🏃🏻‍♀️ Team Parkour
 <table>
@@ -138,7 +151,7 @@ Introducing a practical service tailored specifically <b>for blind or visually i
   </tr>
 </table>
 
-
+---
 
 ## 📩 Contact us
 gdsc.yonsei.parkour@gmail.com
