@@ -122,7 +122,7 @@ Introducing a practical service tailored specifically <b>for blind or visually i
           <img src="https://github.com/becooq81.png" width="100px" alt="Profile Picture">
         </a>
         <div style="margin-left: 10px;">
-          <strong>Heejin Kang</strong><br>
+          <strong>Kang Heejin</strong><br>
             Mobile
         </div>
       </div>
@@ -133,7 +133,7 @@ Introducing a practical service tailored specifically <b>for blind or visually i
           <img src="https://github.com/aeromaki.png" width="100px" alt="Profile Picture">
         </a>
           <div style="margin-left: 10px;">
-            <strong>Jihoon Kim</strong><br>
+            <strong>Kim Jihoon</strong><br>
             ML
           </div>
       </div>
@@ -143,7 +143,7 @@ Introducing a practical service tailored specifically <b>for blind or visually i
         <a target="_blank" href="https://github.com/julie-yon">
           <img src="https://github.com/becooq81/Pill-HomePage/blob/main/assets/pfp/YuYeongHyeon-pfp.jpeg" width="100px" alt="Profile Picture"></a>
           <div style="margin-left: 10px;">
-            <strong>Yeong Hyeon Yu</strong><br>
+            <strong>Yu Yeong Hyeon</strong><br>
             Design
           </div>
       </div>
