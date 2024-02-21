@@ -4,20 +4,20 @@
 
 We are thrilled to present <b>PillKaBoo</b>, an app thoughtfully crafted for blind and visually impaired(VI) parents. 
 
-<b>PillKaBoo</b> is specifically aiming to assist blind/VI parents in safely and independently administering medication to their children.<br>
+<b>PillKaBoo</b> is specifically aiming to assist blind/VI parents in safely and independently administering medication to their children.<br><br>
 
-Explore our groundbreaking features by downloading the demo on `Google Play Store` and `App Store`! <br><br> 
+- Explore our groundbreaking features by **downloading the demo** on `Google Play Store` and `App Store` or [here](https://drive.google.com/drive/folders/1cC7ELRdy3Gu4Ro_yWSZJ3RbcYThk_Z65?usp=sharing)! <br><br>
+- Visit our _cool_ **:house: Homepage:** https://parkourapp.dev/ <br><br>
 
+
+_Refer to the following for <b>our code</b>:_ <br>
+> + **:house: Homepage:** https://github.com/becooq81/PillKaBoo-Homepage <br>
+> + **:iphone: Mobile:** https://github.com/becooq81/PillKaBoo <br>
+> + **🤖 ML:**  <br>
+> + **:globe_with_meridians: Serverless API**: https://github.com/becooq81/PillKaBoo-Backend <br><br>
 *****
-Refer to the following for our code: <br>
 
-+ **:house: Homepage:** https://github.com/becooq81/PillKaBoo-Homepage <br>
-+ **:iphone: Mobile:** https://github.com/becooq81/PillKaBoo <br>
-+ **🤖 ML:**  <br>
-+ **:globe_with_meridians: Serverless API**: https://github.com/becooq81/PillKaBoo-Backend <br><br>
-*****
-
-<h3> Table of Contents </h3>
+<h3> 📁 Table of Contents </h3>
 
 + [Problem Statement](#-problem-statement) <br>
 + [UN SDGs & Targets](#-un-sdgs--targets) <br>
@@ -81,45 +81,99 @@ Our service directly contributes to <b>improving the quality of life for visuall
 
 ## ✨ Key Functions
 
-고쳐야함.....
+Introducing a practical service tailored specifically <b>for blind or visually impaired parents, aimed at simplifying the task of giving medications to their child</b>. With accessibility at its core, our service ensures that anyone, regardless of visual ability, can manage their medications for parenting safely and independently.
 
-Introducing a practical service tailored specifically <b>for blind or visually impaired users, aimed at simplifying the task of identifying medications</b>. Our straightforward tool is designed to assist users in recognizing various pills, providing essential information such as the pill's name, dosage, and purpose. With accessibility at its core, our service ensures that anyone, regardless of visual ability, can manage their medications safely and independently.
+PillKaBoo presents these service in a **user-friendly interface** for blind and VI parents by utilizing semantic labels, imitating the user interactions of screen readers in the application interface, and providing customizable and noticeable interface components.
 
+_<p align = "center"> 📢 All features will work appropriately with `Talk Back`. Please **turn on**! </p>_
 
 ### 🔑 Key Features
-- **Visual Identification:** Assists visually impaired users by identifying medication(s) through visual input, and provides essential details.
-- **Navigation Assistance:** In the case of multiple medications identified in visual input, provides auditory guidance to locate the desired medication
-- **Prescription Management:** Scans prescriptions to set up medication reminders as push notifications, ensuring timely medication intake
+**:one: Medication Recognition & Information** <br>
+: Assists blind/VI users by identifying medication(s) through visual input, and <ins>provides essential details.</ins>
 
+- In real time, Pillkaboo’s built-in camera will **recognize the packaging** of the medication.
+- PillKaBoo will provide various informations such as **precautions for your child, potential allergic reactions you registered in setting, expiration date**, and more. 
+- Just **swipe** to learn accurate medication information!
+<br><br>
+
+**:two: Accurate Liquid Medication Intake** <br>
+: Assists the process of <ins>pouring the required amount of liquid medication</ins> in real time.
+
+- To **select the amount**, adjust the slider by swiping up and down the screen.
+- In real time with Pillkaboo’s built-in camera, **start pouring** liquid medication into the container!
+- PillKaBoo will let users know if users are close to, or done pouring with **audio feedback**.
+<br><br>
+
+**:three: Remaining Liquid Medication** <br>
+: Checks the <ins>remaining amount of liquid medication.</ins>
+
+- **Double check** whether you poured the right amount,or **keep track** of how much medicine you have left for **future usage**.
+- With Pillkaboo’s built-in camera, PillKaBoo will tell users how much it is left.
+  
+<br><br>
+
+**:four: Settings** <br>
+: Personalizes the settings for users convenience.
+
+- **Register child’s allergies** that will be used to check potential risks of allergic reactions when scanning medicine.
+- Customize the colors that better suit personal **color visibility**.
+
+|Medication Recognition|Accurate Liquid Medication Intake|Remaining Liquid Medication|Settings|
+|:---:|:---:|:---:|:---:|
+| GIF | GIF | GIF | GIF |
 ---
 
 ## ⚙️ Technology
 
 ### 👨🏻‍💻 Technology Stack
 
-`Flutter` | `Android` | `Go` | `TensorFlow Lite` | `Google Cloud Function` | `SQLite`
+
+  `Flutter` | `Android` | `Go` | `TensorFlow Lite` | `Google Cloud Function` | `SQLite`
+
 
 ### 🏛️ Application Architecture
 <img src="https://github.com/becooq81/PillKaBoo-HomePage/blob/main/assets/tech/Arcitecture.png" alt="Architecture" width="800" height="320">
 
+#### Mobile Layer
+Users of PillKaBoo directly interact with Mobile Layer through `Google Talk Back` (screen reader). Mobile Layer built with `Flutter` building the application’s user interface and handling logical operations. The user interface implements accessibility features using `Google Talk Back`, enhancing the app’s usability for VI users, and is responsible for providing a better user experience. 
+
+For Machine Learning, `TensorFlow Lite` and `Google’s ML Kit for Flutter` are integrated into the `Flutter` mobile application. Using `TensorFlow Lite` for a custom model to detect the liquid level and identify the liquid amount in the container while using`Google’s ML Kit for Flutter` Text Recognition and Barcode Detection for identifing the medication packaging. 
+
+> For more Mobile information 👉🏻 https://github.com/becooq81/PillKaBoo <br>
+> For more ML information 👉🏻 
+
+#### Data Layer
+All the data are managed in local storage with `SQLite` integration for providing software that doesn’t require an Internet connection. All the features of PillKaBoo can be used in anternet environment.
+
+#### Back-End Layer
+Connected to the frontend component through an `HTTP` request, the `Google Cloud Function`, written in `Go`, updates the latest database of medication information when Internet connection is available. 
+> For more Back-End information 👉🏻 https://github.com/becooq81/PillKaBoo-Backend
+
+#### CI/CD
+For developers, PillKaBoo uses `GitHub Action` for the CI/CD pipeline to automate and streamline the process of building, testing, and deploying applications.
+
 ---
 
 ## ⚡ Getting Started
-### Download <b>PillKaBoo</b> 
+### Download <b>PillKaBoo</b> Beta Test Version!
+
+- For apk: [here!](https://drive.google.com/drive/folders/1cC7ELRdy3Gu4Ro_yWSZJ3RbcYThk_Z65?usp=sharing)
 
 - For android in `Google Play Store` 
 
 - For iOS in `App Store`
 
+_If you wanna try out the Beta Test, please contact us via <b>[official email](gdsc.yonsei.parkour@gmail.com)</b>_
+
 ---
 
 ## 🏃🏻‍♀️ Team Parkour
-<table>
+<table align="center">
   <tr>
     <td align="center">
       <div style="display: flex; align-items: center;">
         <a target="_blank" href="https://github.com/becooq81">
-          <img src="https://github.com/becooq81.png" width="100px" alt="Profile Picture">
+          <img src="https://github.com/becooq81.png" width="250px" alt="Profile Picture">
         </a>
         <div style="margin-left: 10px;">
           <strong>Kang Heejin</strong><br>
@@ -130,7 +184,7 @@ Introducing a practical service tailored specifically <b>for blind or visually i
     <td align="center">
       <div style="display: flex; align-items: center;">
         <a target="_blank" href="https://github.com/aeromaki">
-          <img src="https://github.com/aeromaki.png" width="100px" alt="Profile Picture">
+          <img src="https://github.com/aeromaki.png" width="250px" alt="Profile Picture">
         </a>
           <div style="margin-left: 10px;">
             <strong>Kim Jihoon</strong><br>
@@ -141,7 +195,7 @@ Introducing a practical service tailored specifically <b>for blind or visually i
     <td align="center">
       <div style="display: flex; align-items: center;">
         <a target="_blank" href="https://github.com/julie-yon">
-          <img src="https://github.com/becooq81/Pill-HomePage/blob/main/assets/pfp/YuYeongHyeon-pfp.jpeg" width="100px" alt="Profile Picture"></a>
+          <img src="https://github.com/becooq81/Pill-HomePage/blob/main/assets/pfp/YuYeongHyeon-pfp.jpeg" width="250px" alt="Profile Picture"></a>
           <div style="margin-left: 10px;">
             <strong>Yu Yeong Hyeon</strong><br>
             Design
