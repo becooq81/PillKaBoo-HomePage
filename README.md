@@ -4,9 +4,9 @@
 
 We are thrilled to present <b>PillKaBoo</b>, an app thoughtfully crafted for blind and visually impaired(VI) parents. 
 
-<b>PillKaBoo</b> is specifically aiming to assist blind/VI parents in safely and independently administering medication to their children.<br><br>
+<b>PillKaBoo</b> specifically aims to assist blind/VI parents in safely and independently administering medication to their children.<br><br>
 
-- Explore our groundbreaking features by **downloading the demo** on `Google Play Store` and `App Store` or [here](https://drive.google.com/drive/folders/1cC7ELRdy3Gu4Ro_yWSZJ3RbcYThk_Z65?usp=sharing)! <br><br>
+- Get an invite to our **beta test** by shooting us an [email](mailto:gdsc.yonsei.parkour@gmail.com?subject=[Beta%20Test]) or download the `apk`  [here](https://drive.google.com/drive/folders/1cC7ELRdy3Gu4Ro_yWSZJ3RbcYThk_Z65?usp=sharing)! <br><br>
 - Visit our _cool_ **:house: Homepage:** https://parkourapp.dev/ <br><br>
 
 
@@ -31,7 +31,7 @@ _Refer to the following for <b>our code</b>:_ <br>
 
 ## 🔍 Problem Statement 
 
-<h3 align="center"> Giving medication is not only physically dangerous for their child, but also emotionally traumatic for them.</h3>
+<h3 align="center"> Administering medication to children poses unique challenges for blind parents, encompassing potential safety risks and emotional stress, underscoring the need for accessible medication management solutions and supportive resources.</h3>
 
 > Most Common Medication Challenges for the Blind & Visually Impaired(VI)<br>
 > ```
@@ -40,7 +40,7 @@ _Refer to the following for <b>our code</b>:_ <br>
 > 3. Using Liquid Medication
 > ```
 
-During the interview with VI parents, we learned that bilnd/VI parents struggle with giving medication to their children, especially with <b>identifying and understanding the medication</b> and <b>adjusting the right dosage of liquid medication.</b> They also expressed the desire to <b>independently manage their child’s medication</b> without relying on assistance. They have <b>anxiety</b> when giving medications to their child because of the risk of giving the wrong/expired  medication and exceeding the required liquid dosage. 
+We learned that bilnd/VI parents struggle with giving medication to their children, especially with <b>identifying and understanding the medication</b> and <b>adjusting the right dosage of liquid medication.</b> They also expressed the desire to <b>independently manage their child’s medication</b> without relying on assistance. They have <b>anxiety</b> when giving medications to their child because of the risk of giving the wrong/expired  medication and exceeding the required liquid dosage. 
 
 
 ---
@@ -125,34 +125,29 @@ _<p align = "center"> 📢 All features will work appropriately with `Talk Back`
 ## ⚙️ Technology
 
 ### 👨🏻‍💻 Technology Stack
-<br>
 
-`Flutter` | `Android` | `Go` | `TensorFlow Lite` | `Google Cloud Function` | `SQLite`
-<br>
+
+  `Flutter` | `Android` | `Go` | `TensorFlow Lite` | `Google Cloud Function` | `SQLite`
+  <br>
+
 
 ### 🏛️ Application Architecture
 <img src="https://github.com/becooq81/PillKaBoo-HomePage/blob/main/assets/tech/Arcitecture.png" alt="Architecture" width="800" height="320">
-<br>
 
 #### Mobile Layer
 Users of PillKaBoo directly interact with Mobile Layer through `Google Talk Back` (screen reader). Mobile Layer built with `Flutter` building the application’s user interface and handling logical operations. The user interface implements accessibility features using `Google Talk Back`, enhancing the app’s usability for VI users, and is responsible for providing a better user experience. 
 
 For Machine Learning, `TensorFlow Lite` and `Google’s ML Kit for Flutter` are integrated into the `Flutter` mobile application. Using `TensorFlow Lite` for a custom model to detect the liquid level and identify the liquid amount in the container while using`Google’s ML Kit for Flutter` Text Recognition and Barcode Detection for identifing the medication packaging. 
 
-> For more **Mobile** information 👉🏻 https://github.com/becooq81/PillKaBoo <br>
-> For more **ML** information 👉🏻
-<br>
+> For more Mobile information 👉🏻 https://github.com/becooq81/PillKaBoo <br>
+> For more ML information 👉🏻 
 
 #### Data Layer
 All the data are managed in local storage with `SQLite` integration for providing software that doesn’t require an Internet connection. All the features of PillKaBoo can be used in anternet environment.
-<br><br>
-
 
 #### Back-End Layer
 Connected to the frontend component through an `HTTP` request, the `Google Cloud Function`, written in `Go`, updates the latest database of medication information when Internet connection is available. 
-> For more **Back-End** information 👉🏻 https://github.com/becooq81/PillKaBoo-Backend
-
-<br>
+> For more Back-End information 👉🏻 https://github.com/becooq81/PillKaBoo-Backend
 
 #### CI/CD
 For developers, PillKaBoo uses `GitHub Action` for the CI/CD pipeline to automate and streamline the process of building, testing, and deploying applications.
