@@ -125,28 +125,34 @@ _<p align = "center"> 📢 All features will work appropriately with `Talk Back`
 ## ⚙️ Technology
 
 ### 👨🏻‍💻 Technology Stack
+<br>
 
-
-  `Flutter` | `Android` | `Go` | `TensorFlow Lite` | `Google Cloud Function` | `SQLite`
-
+`Flutter` | `Android` | `Go` | `TensorFlow Lite` | `Google Cloud Function` | `SQLite`
+<br>
 
 ### 🏛️ Application Architecture
 <img src="https://github.com/becooq81/PillKaBoo-HomePage/blob/main/assets/tech/Arcitecture.png" alt="Architecture" width="800" height="320">
+<br>
 
 #### Mobile Layer
 Users of PillKaBoo directly interact with Mobile Layer through `Google Talk Back` (screen reader). Mobile Layer built with `Flutter` building the application’s user interface and handling logical operations. The user interface implements accessibility features using `Google Talk Back`, enhancing the app’s usability for VI users, and is responsible for providing a better user experience. 
 
 For Machine Learning, `TensorFlow Lite` and `Google’s ML Kit for Flutter` are integrated into the `Flutter` mobile application. Using `TensorFlow Lite` for a custom model to detect the liquid level and identify the liquid amount in the container while using`Google’s ML Kit for Flutter` Text Recognition and Barcode Detection for identifing the medication packaging. 
 
-> For more Mobile information 👉🏻 https://github.com/becooq81/PillKaBoo <br>
-> For more ML information 👉🏻 
+> For more **Mobile** information 👉🏻 https://github.com/becooq81/PillKaBoo <br>
+> For more **ML** information 👉🏻
+<br>
 
 #### Data Layer
 All the data are managed in local storage with `SQLite` integration for providing software that doesn’t require an Internet connection. All the features of PillKaBoo can be used in anternet environment.
+<br><br>
+
 
 #### Back-End Layer
 Connected to the frontend component through an `HTTP` request, the `Google Cloud Function`, written in `Go`, updates the latest database of medication information when Internet connection is available. 
-> For more Back-End information 👉🏻 https://github.com/becooq81/PillKaBoo-Backend
+> For more **Back-End** information 👉🏻 https://github.com/becooq81/PillKaBoo-Backend
+
+<br>
 
 #### CI/CD
 For developers, PillKaBoo uses `GitHub Action` for the CI/CD pipeline to automate and streamline the process of building, testing, and deploying applications.
