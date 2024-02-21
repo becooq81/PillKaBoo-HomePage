@@ -158,11 +158,7 @@ For developers, PillKaBoo uses `GitHub Action` for the CI/CD pipeline to automat
 
 - For apk: [here!](https://drive.google.com/drive/folders/1cC7ELRdy3Gu4Ro_yWSZJ3RbcYThk_Z65?usp=sharing)
 
-- For android in `Google Play Store` 
-
-- For iOS in `App Store`
-
-_If you wanna try out the Beta Test, please contact us via <b>[official email](gdsc.yonsei.parkour@gmail.com)</b>_
+_If you wanna try out the Beta Test (iOS & Android), please contact us via <b>[official email](gdsc.yonsei.parkour@gmail.com)</b>_
 
 ---
 
