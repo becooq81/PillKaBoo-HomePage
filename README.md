@@ -109,7 +109,6 @@ _<p align = "center"> 📢 All features will work appropriately with `Talk Back`
 
 - **Double check** whether you poured the right amount,or **keep track** of how much medicine you have left for **future usage**.
 - With Pillkaboo’s built-in camera, PillKaBoo will tell users how much it is left.
-  
 <br><br>
 
 **:four: Settings** <br>
