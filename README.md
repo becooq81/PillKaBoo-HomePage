@@ -4,7 +4,7 @@
 
 We are thrilled to present <b>PillKaBoo</b>, an app thoughtfully crafted for blind and visually impaired(VI) parents. 
 
-<b>PillKaBoo</b>  specifically aims to assist blind/VI parents in safely and independently administering medication to their children.<br><br>
+<b>PillKaBoo</b> specifically aims to assist blind/VI parents in safely and independently administering medication to their children.<br><br>
 
 - Get an invite to our **beta test** by shooting us an [email](mailto:gdsc.yonsei.parkour@gmail.com?subject=[Beta%20Test]) or download the `apk`  [here](https://drive.google.com/drive/folders/1cC7ELRdy3Gu4Ro_yWSZJ3RbcYThk_Z65?usp=sharing)! <br>
   - Currently, our service is only available in Korean and (in the case of medication recognition feature) medicine products registered in Korea. We plan to expand the service internationally. In the meantime, send us an email if you wish the service in your country sooner! <br><br>
@@ -60,7 +60,7 @@ Our service directly contributes to <b>improving the quality of life for visuall
 <br><br>
 
 #### ${\textsf{\color{green}[Target 3.8] Contribution to Accessibility of Healthcare: }}$ 
-> PillKaBoo improves accessibility to information about medication and liquid medication intake so that blind/VI parents can <b>reduce the risks of taking the wrong or expired medication and exceeding the required dosage.</b> PillKaBoo contributes to the good health and well-being of VI parents and their children.
+> PillKaBoo improves accessibility to information about medication and liquid medication intake so that blind/VI parents can <b>reduce the risks of giving the wrong or expired medication and exceeding the required dosage.</b> PillKaBoo contributes to the good health and well-being of VI parents and their children.
 <br>
 
 #### ${\textsf{\color{red}[Target 4.5] Educated Medication Information: }}$ 
