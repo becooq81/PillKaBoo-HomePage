@@ -4,9 +4,10 @@
 
 We are thrilled to present <b>PillKaBoo</b>, an app thoughtfully crafted for blind and visually impaired(VI) parents. 
 
-<b>PillKaBoo</b> specifically aims to assist blind/VI parents in safely and independently administering medication to their children.<br><br>
+<b>PillKaBoo</b>  specifically aims to assist blind/VI parents in safely and independently administering medication to their children.<br><br>
 
-- Get an invite to our **beta test** by shooting us an [email](mailto:gdsc.yonsei.parkour@gmail.com?subject=[Beta%20Test]) or download the `apk`  [here](https://drive.google.com/drive/folders/1cC7ELRdy3Gu4Ro_yWSZJ3RbcYThk_Z65?usp=sharing)! <br><br>
+- Get an invite to our **beta test** by shooting us an [email](mailto:gdsc.yonsei.parkour@gmail.com?subject=[Beta%20Test]) or download the `apk`  [here](https://drive.google.com/drive/folders/1cC7ELRdy3Gu4Ro_yWSZJ3RbcYThk_Z65?usp=sharing)! <br>
+  - Currently, our service is only available in Korean and (in the case of medication recognition feature) medicine products registered in Korea. We plan to expand the service internationally. In the meantime, send us an email if you wish the service in your country sooner! <br><br>
 - Visit our _cool_ **:house: Homepage:** https://parkourapp.dev/ <br><br>
 
 
@@ -40,8 +41,7 @@ _Refer to the following for <b>our code</b>:_ <br>
 > 3. Using Liquid Medication
 > ```
 
-We learned that bilnd/VI parents struggle with giving medication to their children, especially with <b>identifying and understanding the medication</b> and <b>adjusting the right dosage of liquid medication.</b> They also expressed the desire to <b>independently manage their child’s medication</b> without relying on assistance. They have <b>anxiety</b> when giving medications to their child because of the risk of giving the wrong/expired  medication and exceeding the required liquid dosage. 
-
+We learned that bilnd/VI parents struggle with giving medication to their children, especially with <b>identifying and understanding the medication</b> and <b>adjusting the right dosage of liquid medication.</b> They also expressed the desire to <b>independently manage their child’s medication</b> without relying on assistance. They feel <b>anxious</b> when giving medications to their child because of the risk of giving the wrong/expired  medication and exceeding the required liquid dosage. 
 
 ---
 
@@ -81,38 +81,37 @@ Our service directly contributes to <b>improving the quality of life for visuall
 
 ## ✨ Key Functions
 
-Introducing a practical service tailored specifically <b>for blind or visually impaired parents, aimed at simplifying the task of giving medications to their child</b>. With accessibility at its core, our service ensures that anyone, regardless of visual ability, can manage their medications for parenting safely and independently.
+Introducing a practical service tailored specifically <b>for blind or visually impaired parents, aimed at simplifying the task of giving medications to their child</b>. With accessibility at its core, our service ensures that anyone, regardless of visual ability, can manage the medications for their children safely and independently.
 
-PillKaBoo presents these service in a **user-friendly interface** for blind and VI parents by utilizing semantic labels, imitating the user interactions of screen readers in the application interface, and providing customizable and noticeable interface components.
+PillKaBoo presents in a **user-friendly interface for blind and VI parents** by utilizing semantic labels, imitating the user interactions of screen readers in the application interface, and providing customizable and noticeable interface components.
 
-_<p align = "center"> 📢 All features will work appropriately with `Talk Back`. Please **turn on**! </p>_
+_<p align = "center"> 📢 All features will work appropriately with `Talk Back`. Please **turn on** this accessibility feature! </p>_
 
 ### 🔑 Key Features
 **:one: Medication Recognition & Information** <br>
 : Assists blind/VI users by identifying medication(s) through visual input, and <ins>provides essential details.</ins>
 
-- In real time, Pillkaboo’s built-in camera will **recognize the packaging** of the medication.
-- PillKaBoo will provide various informations such as **precautions for your child, potential allergic reactions you registered in setting, expiration date**, and more. 
+- In real time, Pillkaboo’s built-in camera **recognizes the packaging** of the medication.
+- PillKaBoo provides various informations such as **precautions for your child, potential allergic reactions you registered in setting, expiration date**, and of course all the basics as well. 
 - Just **swipe** to learn accurate medication information!
 <br><br>
 
 **:two: Accurate Liquid Medication Intake** <br>
-: Assists the process of <ins>pouring the required amount of liquid medication</ins> in real time.
+: Assists the process of <ins>pouring the desired amount of liquid medication</ins> in real time.
 
 - To **select the amount**, adjust the slider by swiping up and down the screen.
-- In real time with Pillkaboo’s built-in camera, **start pouring** liquid medication into the container!
-- PillKaBoo will let users know if users are close to, or done pouring with **audio feedback**.
+- While you **pour** the liquid medication into the container, PillKaBoo's built-in camera will let you know if you are close to, or done pouring with **varying audio feedback**.
 <br><br>
 
 **:three: Remaining Liquid Medication** <br>
 : Checks the <ins>remaining amount of liquid medication.</ins>
 
 - **Double check** whether you poured the right amount,or **keep track** of how much medicine you have left for **future usage**.
-- With Pillkaboo’s built-in camera, PillKaBoo will tell users how much it is left.
+- PillKaBoo tells you how much is left in the container.
 <br><br>
 
 **:four: Settings** <br>
-: Personalizes the settings for users convenience.
+: Personalizes the settings for users' convenience.
 
 - **Register child’s allergies** that will be used to check potential risks of allergic reactions when scanning medicine.
 - Customize the colors that better suit personal **color visibility**.
