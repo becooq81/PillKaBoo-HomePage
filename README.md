@@ -100,7 +100,7 @@ _<p align = "center"> 📢 All features will work appropriately with `Talk Back`
 : Assists blind/VI users to optimize the effectiveness of the prescribed treatment by <ins>promoting timely and consistent prescription medication intake.</ins>
 
 - In real time, PillKaBoo's built-in camera **recognizes the packaging text** of the prescription medication.
-- PillKaBoo will let you know the exact time when you have to take the presciption medication.
+- PillKaBoo will let you know the **exact mealtime** when you have to take the presciption medication.
 
 **:three: Accurate Liquid Medication Intake** <br>
 : Assists the process of <ins>pouring the desired amount of liquid medication</ins> in real time.
@@ -113,7 +113,7 @@ _<p align = "center"> 📢 All features will work appropriately with `Talk Back`
 : Checks the <ins>remaining amount of liquid medication.</ins>
 
 - **Double check** whether you poured the right amount,or **keep track** of how much medicine you have left for **future usage**.
-- PillKaBoo tells you how much is left in the container.
+- PillKaBoo tells you how much liquid medication is left in the container.
 <br><br>
 
 **:five: Settings** <br>
@@ -141,7 +141,7 @@ _<p align = "center"> 📢 All features will work appropriately with `Talk Back`
 
 
 ### 🏛️ Application Architecture
-<img src="https://github.com/becooq81/PillKaBoo-HomePage/blob/main/assets/tech/Arcitecture.png" alt="Architecture" width="800" height="320">
+<img src="https://github.com/becooq81/PillKaBoo-HomePage/blob/main/assets/tech/Architecture.png" alt="Architecture" width="800" height="320">
 
 #### Mobile Layer
 Users of PillKaBoo directly interact with Mobile Layer through `Google Talk Back` (screen reader). Mobile Layer built with `Flutter` building the application’s user interface and handling logical operations. The user interface implements accessibility features using `Google Talk Back`, enhancing the app’s usability for VI users, and is responsible for providing a better user experience. 
