@@ -101,6 +101,7 @@ _<p align = "center"> 📢 All features will work appropriately with `Talk Back`
 
 - In real time, PillKaBoo's built-in camera **recognizes the packaging text** of the prescription medication.
 - PillKaBoo will let you know the **exact mealtime** when you have to take the presciption medication.
+<br><br>
 
 **:three: Accurate Liquid Medication Intake** <br>
 : Assists the process of <ins>pouring the desired amount of liquid medication</ins> in real time.
