@@ -4,7 +4,7 @@
 
 We are thrilled to present <b>PillKaBoo</b>, an app thoughtfully crafted for blind and visually impaired(VI) parents. 
 
-<b>PillKaBoo</b> specifically aims to assist blind/VI parents in safely and independently administering medication to their children.<br><br>
+<b>PillKaBoo</b> specifically aims to assist blind/VI parents in safely and independently administering medication to their children.<br><br>
 
 - Get an invite to our **beta test** by shooting us an [email](mailto:gdsc.yonsei.parkour@gmail.com?subject=[Beta%20Test]) or download the `apk`  [here](https://drive.google.com/drive/folders/1cC7ELRdy3Gu4Ro_yWSZJ3RbcYThk_Z65?usp=sharing)! <br>
   - Currently, our service is only available in Korean and (in the case of medication recognition feature) medicine products registered in Korea. We plan to expand the service internationally. In the meantime, send us an email if you wish the service in your country sooner! <br><br>
@@ -96,29 +96,39 @@ _<p align = "center"> 📢 All features will work appropriately with `Talk Back`
 - Just **swipe** to learn accurate medication information!
 <br><br>
 
-**:two: Accurate Liquid Medication Intake** <br>
+**:two: Recognition of Prescription Medication Taking Time** <br>
+: Assists blind/VI users to optimize the effectiveness of the prescribed treatment by <ins>promoting timely and consistent prescription medication intake.</ins>
+
+- In real time, PillKaBoo's built-in camera **recognizes the packaging text** of the prescription medication.
+- PillKaBoo will let you know the exact time when you have to take the presciption medication.
+
+**:three: Accurate Liquid Medication Intake** <br>
 : Assists the process of <ins>pouring the desired amount of liquid medication</ins> in real time.
 
 - To **select the amount**, adjust the slider by swiping up and down the screen.
 - While you **pour** the liquid medication into the container, PillKaBoo's built-in camera will let you know if you are close to, or done pouring with **varying audio feedback**.
 <br><br>
 
-**:three: Remaining Liquid Medication** <br>
+**:four: Remaining Liquid Medication** <br>
 : Checks the <ins>remaining amount of liquid medication.</ins>
 
 - **Double check** whether you poured the right amount,or **keep track** of how much medicine you have left for **future usage**.
 - PillKaBoo tells you how much is left in the container.
 <br><br>
 
-**:four: Settings** <br>
+**:five: Settings** <br>
 : Personalizes the settings for users' convenience.
 
 - **Register child’s allergies** that will be used to check potential risks of allergic reactions when scanning medicine.
 - Customize the colors that better suit personal **color visibility**.
 
-|Medication Recognition|Accurate Liquid Medication Intake|Remaining Liquid Medication|Settings|
-|:---:|:---:|:---:|:---:|
-| GIF | GIF | GIF | GIF |
+|Medication Recognition|Recognition of Prescription Medication Taking Time|
+|:---:|:---:|
+| GIF | GIF |
+
+|Accurate Liquid Medication Intake|Remaining Liquid Medication|Settings|
+|:---:|:---:|:---:|
+| GIF | GIF | GIF |
 ---
 
 ## ⚙️ Technology
