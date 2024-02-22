@@ -14,7 +14,6 @@ We are thrilled to present <b>PillKaBoo</b>, an app thoughtfully crafted for bli
 _Refer to the following for <b>our code</b>:_ <br>
 > + **:house: Homepage:** https://github.com/becooq81/PillKaBoo-Homepage <br>
 > + **:iphone: Mobile:** https://github.com/becooq81/PillKaBoo <br>
-> + **🤖 ML:**  <br>
 > + **:globe_with_meridians: Serverless API**: https://github.com/becooq81/PillKaBoo-Backend <br><br>
 *****
 
@@ -150,7 +149,6 @@ Users of PillKaBoo directly interact with Mobile Layer through `Google Talk Back
 For Machine Learning, `TensorFlow Lite` and `Google’s ML Kit for Flutter` are integrated into the `Flutter` mobile application. Using `TensorFlow Lite` for a custom model to detect the liquid level and identify the liquid amount in the container while using`Google’s ML Kit for Flutter` Text Recognition and Barcode Detection for identifing the medication packaging. 
 
 > For more Mobile information 👉🏻 https://github.com/becooq81/PillKaBoo <br>
-> For more ML information 👉🏻 
 
 #### Data Layer
 All the data are managed in local storage with `SQLite` integration for providing software that doesn’t require an Internet connection. All the features of PillKaBoo can be used in anternet environment.
