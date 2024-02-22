@@ -95,11 +95,11 @@ _<p align = "center"> 📢 All features will work appropriately with `Talk Back`
 - Just **swipe** to learn accurate medication information!
 <br><br>
 
-**:two: Recognition of Prescription Time Lable** <br>
+**:two: Recognition of Prescription Labels** <br>
 : Assists blind/VI users to optimize the effectiveness of the prescribed treatment by <ins>promoting timely and consistent prescription medication intake.</ins>
 
-- In real time, PillKaBoo's built-in camera **recognizes the text printed on the prescription packit**.
-- PillKaBoo will let you know the **exact mealtime** when you have to take the presciption medication.
+- In real time, PillKaBoo's built-in camera **recognizes the text labels printed on the prescription packet**.
+- PillKaBoo will let you know which part of day (morning, noon, or evening) for which this packet is assigned, and the date of prescription.
 <br><br>
 
 **:three: Accurate Liquid Medication Intake** <br>
