@@ -95,10 +95,10 @@ _<p align = "center"> 📢 All features will work appropriately with `Talk Back`
 - Just **swipe** to learn accurate medication information!
 <br><br>
 
-**:two: Recognition of Prescription Medication Taking Time** <br>
+**:two: Recognition of Prescription Time Lable** <br>
 : Assists blind/VI users to optimize the effectiveness of the prescribed treatment by <ins>promoting timely and consistent prescription medication intake.</ins>
 
-- In real time, PillKaBoo's built-in camera **recognizes the packaging text** of the prescription medication.
+- In real time, PillKaBoo's built-in camera **recognizes the text printed on the prescription packit**.
 - PillKaBoo will let you know the **exact mealtime** when you have to take the presciption medication.
 <br><br>
 
@@ -122,7 +122,7 @@ _<p align = "center"> 📢 All features will work appropriately with `Talk Back`
 - **Register child’s allergies** that will be used to check potential risks of allergic reactions when scanning medicine.
 - Customize the colors that better suit personal **color visibility**.
 
-|Medication Recognition|Recognition of Prescription Medication Taking Time|
+|Medication Recognition|Recognition of Prescription Time Lable|
 |:---:|:---:|
 | GIF | GIF |
 
