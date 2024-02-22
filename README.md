@@ -122,7 +122,7 @@ _<p align = "center"> 📢 All features will work appropriately with `Talk Back`
 - **Register child’s allergies** that will be used to check potential risks of allergic reactions when scanning medicine.
 - Customize the colors that better suit personal **color visibility**.
 
-|Medication Recognition|Recognition of Prescription Time Lable|
+|Medication Recognition|Recognition of Prescription Time Label|
 |:---:|:---:|
 | GIF | GIF |
 
