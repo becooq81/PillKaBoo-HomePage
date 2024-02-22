@@ -19,13 +19,13 @@ _Refer to the following for <b>our code</b>:_ <br>
 
 <h3> 📁 Table of Contents </h3>
 
-+ [Problem Statement](#-problem-statement) <br>
-+ [UN SDGs & Targets](#-un-sdgs--targets) <br>
-+ [Demo Video](#-demo-video) <br>
-+ [Key Functions](#-key-functions)<br>
-+ [Technology](#%EF%B8%8F-technology) <br>
-+ [Getting Started](#-getting-started) <br>
-+ [Team Parkour](#%EF%B8%8F-team-parkour) <br>
++ [🔍 Problem Statement](#-problem-statement) <br>
++ [🎯 UN SDGs & Targets](#-un-sdgs--targets) <br>
++ [📼 Demo Video](#-demo-video) <br>
++ [✨ Key Functions](#-key-functions)<br>
++ [⚙️ Technology](#%EF%B8%8F-technology) <br>
++ [⚡ Getting Started](#-getting-started) <br>
++ [🏃🏻‍♀️ Team Parkour](#%EF%B8%8F-team-parkour) <br>
 
 ---
 
