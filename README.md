@@ -146,7 +146,7 @@ _<p align = "center"> 📢 All features will work appropriately with `Talk Back`
 #### Mobile Layer
 Users of PillKaBoo directly interact with Mobile Layer through `Google Talk Back` (screen reader). Mobile Layer built with `Flutter` building the application’s user interface and handling logical operations. The user interface implements accessibility features using `Google Talk Back`, enhancing the app’s usability for VI users, and is responsible for providing a better user experience. 
 
-For Machine Learning, `TensorFlow Lite` and `Google’s ML Kit for Flutter` are integrated into the `Flutter` mobile application. Using `TensorFlow Lite` for a custom model to detect the liquid level and identify the liquid amount in the container while using`Google’s ML Kit for Flutter` Text Recognition and Barcode Detection for identifing the medication packaging. 
+For Machine Learning, `TensorFlow Lite` and `Google’s ML Kit for Flutter` are integrated into the `Flutter` mobile application. Using `TensorFlow Lite` for a YOLO model (trained with hand-crafted dataset) for bottle detection used when identifying the liquid amount in the container while using`Google’s ML Kit for Flutter` Text Recognition and Barcode Detection for identifing the medication packaging. 
 
 > For more Mobile information 👉🏻 https://github.com/becooq81/PillKaBoo <br>
 
