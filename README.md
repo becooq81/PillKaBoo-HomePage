@@ -6,7 +6,7 @@ We are thrilled to present <b>PillKaBoo</b>, an app thoughtfully crafted for bli
 
 <b>PillKaBoo</b> specifically aims to assist blind/VI parents in safely and independently administering medication to their children.<br><br>
 
-- Get an invite to our **beta test** by shooting us an [email](mailto:gdsc.yonsei.parkour@gmail.com?subject=[Beta%20Test]) or download the `apk`  [here](https://drive.google.com/drive/folders/1cC7ELRdy3Gu4Ro_yWSZJ3RbcYThk_Z65?usp=sharing)! <br>
+- Get an invite to our **beta test** by shooting us an [email](mailto:gdsc.yonsei.parkour@gmail.com?subject=[Beta%20Test])! <br>
   - Currently, our service is only available in Korean and (in the case of medication recognition feature) medicine products registered in Korea. We plan to expand the service internationally. In the meantime, send us an email if you wish the service in your country sooner! <br><br>
 - Visit our _cool_ **:house: Homepage:** https://parkourapp.dev/ <br><br>
 
