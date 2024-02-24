@@ -85,8 +85,10 @@ Introducing a practical service tailored specifically <b>for blind or visually i
 
 PillKaBoo presents in a **user-friendly interface for blind and VI parents** by utilizing semantic labels, imitating the user interactions of screen readers in the application interface, and providing customizable and noticeable interface components.
 
-_<p align = "center"> 📢 All features will work appropriately with `Talk Back`. Please **turn on** this accessibility feature! </p>_
-<br>
+> [!IMPORTANT]
+> 📢 All features will work appropriately with `Talk Back`. Please **turn on** this accessibility feature! 
+
+-----------------------------
 
 ### 🔑 Key Features
 **:one: Medication Recognition & Information** <br>
